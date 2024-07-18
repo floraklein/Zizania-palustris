@@ -6,6 +6,4 @@
 src="https://archive.org/embed/wildrice00cham/page/10/mode/2up"
 fit="contain">
 
-To create a new repository using this template go to [https://github.com/juncture-digital/template/generate](https://github.com/juncture-digital/template/generate)
-
 Sample text here
