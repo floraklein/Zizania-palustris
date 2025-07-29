@@ -8,19 +8,19 @@
        author="Flora Klein"
        layout="vertical">
 
-# Introduction
+### Introduction
 
 On New Year’s Eve 2018, the White Earth Nation of [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) formally recognized the legal rights of manoomin, also known as [wild rice](https://en.wikipedia.org/wiki/Wild_rice) (_Zizania palustris_). This declaration in tribal law included manoomin’s right to exist, flourish, regenerate, and evolve. The recognition of wild rice legal rights in tribal court is one of many cases in a global movement aimed at recognizing the legal rights of species and ecosystems. It is believed to be the first case in the United States brought before a tribal court on behalf of the [rights of nature](https://en.wikipedia.org/wiki/Rights_of_nature) and attempts to establish legal rights for species and ecosystems. The case reflects an assertion of the close relationship between plant, people, and landscape predicated on an understanding of kinship and mutual reliance according to Indigenous worldview.[^1] 
 <param ve-image
-src=“wc:Wild_rice_in_McGregor,_Minnesota.jpg"
-caption=“Wild rice flowers in McGregor, Minnesota."
-fit=“contain”>
+src="wc:Wild_rice_in_McGregor,_Minnesota.jpg"
+caption="Wild rice flowers in McGregor, Minnesota."
+fit="contain">
 
 Wild rice, or _Zizania palustris_, is an aquatic grass species native to the Great Lakes region of North America. Evidence of human use dates to the Late Archaic and [Early Woodlands periods](https://en.wikipedia.org/wiki/Woodland_period), around two thousand years ago. The Ojibwe are one of three tribes constituting the [Anishinaabe](https://en.wikipedia.org/wiki/Anishinaabe), or “original people,” an Indigenous nation in the Great Lakes region of North America. For the Ojibwe, wild rice is not only a foodstuff and a medicinal plant whose use dates back thousands of years; it is also considered a sacred or spiritual being with cultural and spiritual significance. Dependent on highly specific landscape conditions for growth, the history of wild rice draws upon draws upon botanical and [Traditional Ecological Knowledge](https://blog.ucs.org/science-blogger/the-importance-of-traditional-ecological-knowledge-tek-when-examining-climate-change/) (TEK) and reflects a close interweaving between people, place, and plant. 
 <param ve-image
-src=“wc:Sifting_through_newly_gathered_wild_rice_to_remove_extra_debris.jpg"
-caption=“Sifting through newly gathered wild rice to remove extra debris before parching."
-fit=“contain”>
+src="wc:Sifting_through_newly_gathered_wild_rice_to_remove_extra_debris.jpg"
+caption="Sifting through newly gathered wild rice to remove extra debris before parching."
+fit="contain">
 
 Since the 1950s, attempts at cultivating wild rice spread from Minnesota to California. Wild rice has transformed from a gourmet delicacy to a superfood staple in the advent of commercialized production and institutionalized breeding programs. Indeed, the grain boasts many health benefits, including being low in fat and high in dietary fiber, minerals, protein, and vitamins. Demand for the highly nutritious monoecious crop has prompted tensions between Indigenous growers and large-scale commercialization and commodification of the plant. A food source for humans for thousands of years, the significance of wild rice has only recently become more widely studied and understood by a broader audience, including the scientific community and general public. Issues surrounding food sovereignty, climate change-induced habitat loss, and other environmental threats, have paved the way for groundbreaking legal developments, providing environmental protections based on the recognition of wild rice as a non-human person according to Indigenous worldviews. 
 
@@ -36,9 +36,9 @@ The turn of the twenty-first century saw the release of the first wild rice geno
 
 In North America, the intertwined story of people and plant begins around 950 C.E. The Anishinaabe nation received a prophecy from the prophets of the [Seven Fires](https://en.wikipedia.org/wiki/Seven_fires_prophecy) and a floating seashell, called the sacred [miigis](http://nativeamericannetroots.net/diary/1392). The prophecy instructed them to travel westwards to where the “food grows on water,” referring to wild rice. The Anishinaabe migration occurred over the course of approximately five hundred years and included several legs to the journey. The Ojibwe people of the Anishinaabe nation eventually settled in Gichigami, the area east of Lake Superior, in present-day Minnesota. The movement of the Ojibwe pushed the [Dakota](https://www.mnhs.org/fortsnelling/learn/native-americans/dakota-people), the previous inhabitants of the region, to relocate to the south and west.
 <param ve-map prefer-geojson
-center=“44.99,-82.61"
-zoom=“4.25"
-title=“caption”>
+center="44.99,-82.61"
+zoom="4.25"
+title="caption">
 
 A special gift from the Creator that tied Anishinaabe people to lands, manoomin, as a part of Anishinaabe [materia medica](https://en.wikipedia.org/wiki/Materia_medica), serves both ritual and medicinal purposes. Considered the most sacred _mashkiki_, or medicine, manoomin contains not only a material presence, but also spiritual one, providing both nourishment and healing. Used to promote recovery from sickness through ingestion or through topical poultices, manoomin harvest became a ritualized practice. The gathering of manoomin, and other mashkiki, from the Gichimanidoogitigan, or “Creator’s Garden,” was timed in accordance with the autumnal wild rice harvest and was often overseen by a rice chief. Many of the key ceremonies in the Anishinaable ceremonial complex were timed in accordance with the harvest. The continued use of manoomin by the Ojibwe helps fulfill the prophecy that originally brought the Anishinaabe to the Great Lakes region. 
 
@@ -62,13 +62,13 @@ Both Americans and Europeans had ambitions to cultivate wild rice outside of its
 
 Many travelers to the Great Lakes region in the century following Kalm’s expedition viewed wild rice as productive crop well-suited for potential cultivation in the analogous climates of Northern Europe. Jonathan Carver, a colonel and explorer from Massachusetts, entertained the idea of producing wild rice as a domesticated crop in the “infant colonies” of the United States after traveling to the the western Great Lakes region in the late 1760s. 
 
-Carver and Kalm were not alone in entertaining the idea of cultivating wild rice. In his 1803 “Observation on the _Zizania aquatica_,” botanist Aylmer Bourke Lambert described the transportation of _Z. Aquatica seeds_, from Canada to Europe, in glass jars. Long considered a “desideratum among the botanists of [England],” he noted his desire to grow the seeds in the “many shallow pieces of water” in Great Britain and Ireland. Beginning with French botanist André Michaux, few, if any, were able to grow wild rice in Europe.
+Carver and Kalm were not alone in entertaining the idea of cultivating wild rice. In his 1803 “Observation on the _Zizania aquatica_,” botanist Aylmer Bourke Lambert described the transportation of _Z. Aquatica seeds_, from Canada to Europe, in glass jars. Long considered a “desideratum among the botanists of \[England\] [England],” he noted his desire to grow the seeds in the “many shallow pieces of water” in Great Britain and Ireland. Beginning with French botanist André Michaux, few, if any, were able to grow wild rice in Europe.
 
 However, the highly specific habitat conditions required for wild rice growth meant that early cultivation attempts failed. In an 1852 United States geological survey, American geologist David Dale Owen wrote: “This grain has been frequently introduced to the attention of cultivators, and is worth of notice, not only for the value of its products, but the peculiar nature of the soil to which it is adapted, being necessarily unfit for any of our ordinary cultivated grains.” He later specified, “It is in these situations best exposed to the proper degree of inundation, and finds a suitable bed of the slimy sand, in which [wild rice] grows most readily. It is rarely met with on inland lakes which have no outlet.” Owen described the specific features of wild rice habitat, including the regular inundation, steady water flow, and relative water depth required for wild rice growth in aquatic habitats, many of which were lost only a few decades later due to flooding caused by newly constructed dams.
 <param ve-image
-src=“wc:Wild_rice_plants,_Red_Sand_Lake_-_NARA_-_285207.jpg"
-caption=“Wild rice plants"
-fit=“contain”>
+src="wc:Wild_rice_plants,_Red_Sand_Lake_-_NARA_-_285207.jpg"
+caption="Wild rice plants"
+fit="contain">
 
 # Harvest Histories
 
@@ -76,9 +76,9 @@ In “Gathering Wild Rice, 1849-1855,” artist Seth Eastman depicts three women
 
 Cultural traditions involving wild rice were closely linked to the seasons. Many key traditional Anishinaabe ceremonies and rituals were timed in accordance with the thanksgiving for manoomin harvest. Anishinaabe harvesters would set up harvest camps, or Manoominikewin, for “ricing.” In 1820, Henry Schoolcraft, on an expedition to find the source of the Mississippi River, noted the role of wild rice as a foodstuff closely linked to seasonal change: “The necessity of changing their camps often, to procure game or fish, the want of domesticated animals, the general dependence on wild rice, and the custom of journeying in canoes, has produced a general uniformity of life.” The harvest was a multi-step process involving both men and women, who would perform different tasks.
 <param ve-image
-src=“wc:Chippewa_wild_rice_harvesting.jpg"
-caption=“Wild rice harvesting."
-fit=“contain”>
+src="wc:Chippewa_wild_rice_harvesting.jpg"
+caption="Wild rice harvesting."
+fit="contain">
 
 Historically, both Ojibwe men and women performed wild rice harvesting, with men steering the canoe and women knocking the grains into the canoe. In the decades following land cessions, forced migration, and non-Indigenous settlement, the labor relations and gender roles involved in harvesting changed. During the early twentieth century, the state of Minnesota created [wild rice camps](https://www.kaxe.org/local-news/2023-09-22/wild-rice-camp-highlights-sacred-plant-and-the-fight-to-protect-it), and state control over wild rice harvesting was codified in 1939. Here, women’s labor was not recognized by settlers and wild rice harvesting became primarily a men’s role. Today, both men and women participate in the harvest, although men remain the primary harvesters. 
 <param ve-image
