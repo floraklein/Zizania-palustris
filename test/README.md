@@ -2,8 +2,8 @@
 
 <param ve-config
        title="Plant and Person"
-       source-image="https://commons.wikimedia.org/wiki/File:Wild_rice_in_McGregor,_Minnesota.jpg"
-       banner="https://commons.wikimedia.org/wiki/File:Wild_rice_in_McGregor,_Minnesota.jpg"
+       source-image="https://upload.wikimedia.org/wikipedia/commons/c/cd/Wild_rice_in_McGregor%2C_Minnesota.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/c/cd/Wild_rice_in_McGregor%2C_Minnesota.jpg"
        height=100
        author="Flora Klein"
        layout="vertical">
