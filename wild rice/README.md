@@ -152,7 +152,7 @@ src=“wc:Pipeline_Free_Manoomin_(Honor_the_Earth).jpg"
 caption=“Wild rice from Honor the Earth."
 fit=“contain”>
 
-[^1]: “Press Release: Federal Appeals Court Denies State of Minnesota’s Bid to Take ‘Rights of Nature’ Case Away from Tribal Court.” Center for Democratic and Environmental Rights. Accessed May 24, 2025. https://www.centerforenvironmentalrights.org/news/press-release-federal-appeals-court-denies-state-of-minnesotas-bid-to-take-rights-of-nature-case-away-from-tribal-court.
+[^1]: "Press Release: Federal Appeals Court Denies State of Minnesota’s Bid to Take ‘Rights of Nature’ Case Away from Tribal Court." Center for Democratic and Environmental Rights. Accessed May 24, 2025. https://www.centerforenvironmentalrights.org/news/press-release-federal-appeals-court-denies-state-of-minnesotas-bid-to-take-rights-of-nature-case-away-from-tribal-court.
 [^2]: Lillian McGilp, Claudia Castell-Miller, Matthew Haas, Rennet Millas, Jennifer Kimball, “Northern Wild Rice (Zizania palustris L.) breeding, genetics, and conservation,” Crop Science 63, no. 4 (2023): 1907.
 [^3]: McGilp et al., “Northern Wild Rice (Zizania palustris L.) breeding, genetics, and conservation,” 1905.
 [^4]: Carl Linnaeus, Species Plantarum: exhibentes plantas rite cognitas ad genera relatas, cum differential specifics, nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas 4, pt. 1 (1753), 396-397.
