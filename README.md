@@ -1,9 +1,9 @@
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
-# Zizania palustris
-
-<param ve=iframe
-src="https://archive.org/embed/wildrice00cham/page/10/mode/2up"
-fit="contain">
-
-Sample text here
+<param ve-config
+       title="Plant and Person"
+       source-image="https://commons.wikimedia.org/wiki/File:Wild_rice_in_McGregor,_Minnesota.jpg"
+       banner="https://commons.wikimedia.org/wiki/File:Wild_rice_in_McGregor,_Minnesota.jpg"
+       height=100
+       author="Flora Klein"
+       layout="vertical">
