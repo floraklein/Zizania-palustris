@@ -52,7 +52,7 @@ Both Americans and Europeans fostered ambitions to cultivate wild rice outside o
 
 Many travelers to the Great Lakes region in the century following Kalm’s expedition viewed wild rice as productive crop well-suited for potential cultivation in the analogous climates of Northern Europe. Jonathan Carver, a colonel and explorer from Massachusetts, entertained the idea of producing wild rice as a domesticated crop in the "infant colonies" of the United States after traveling to the the western Great Lakes region in the late 1760s.[^19]
 
-Carver and Kalm were not alone in entertaining the idea of cultivating wild rice. In his 1803 "Observation on the Zizania aquatica," botanist Aylmer Bourke Lambert described the transportation of Z. Aquatica seeds, from Canada to Europe, in glass jars. Long considered a "desideratum among the botanists of \[England\]," he noted his desire to grow the seeds in the "many shallow pieces of water" in Great Britain and Ireland. Beginning with French botanist André Michaux, few, if any, were able to grow wild rice in Europe. To many botanists, wild rice was poised to become Europe’s next commodified crop. 
+Carver and Kalm were not alone in entertaining the idea of cultivating wild rice. In his 1803 "Observation on the Zizania aquatica," botanist Aylmer Bourke Lambert described the transportation of Z. Aquatica seeds, from Canada to Europe, in glass jars. Long considered a "desideratum among the botanists of \[England\]," he noted his desire to grow the seeds in the "many shallow pieces of water" in Great Britain and Ireland.[^20] Beginning with French botanist André Michaux, few, if any, were able to grow wild rice in Europe. To many botanists, wild rice was poised to become Europe’s next commodified crop.[^21] 
 
 [^1]: "Press Release: Federal Appeals Court Denies State of Minnesota’s Bid to Take ‘Rights of Nature’ Case Away from Tribal Court." Center for Democratic and Environmental Rights. Accessed May 24, 2025. https://www.centerforenvironmentalrights.org/news/press-release-federal-appeals-court-denies-state-of-minnesotas-bid-to-take-rights-of-nature-case-away-from-tribal-court.
 [^2]: Lillian McGilp, Claudia Castell-Miller, Matthew Haas, Rennet Millas, Jennifer Kimball, "Northern Wild Rice (Zizania palustris L.) breeding, genetics, and conservation," Crop Science 63, no. 4 (2023): 1907.
@@ -72,4 +72,7 @@ Carver and Kalm were not alone in entertaining the idea of cultivating wild rice
 [^16]: "1837 Treaty," Minnesota Department of Natural Resources, accessed August 1, 2024, https://www.dnr.state.mn.us/aboutdnr/laws_treaties/1837/index.html.
 [^17]: Marie Schaefer, "Whose Knowledge Matters? Shifting Knowledge Systems and Gender Roles in Manoomin (Wild Rice) Revitalization in the Great Lakes" (PhD thesis, Michigan State University, 2020).
 [^18]: Lisbet Koerner, Linnaeus: Nature and Nation (Cambridge, MA: Harvard University Press), 114-117; Anya Zilberstein, "Inured to Empire: Wild Rice and Climate Change," accessed August 1, 2024, https://sophiecoeprize.wordpress.com/wp-content/uploads/2015/07/zilberstein-e28094-sophie-coe-winner-2015.pdf. 
-[^19]: 
+[^19]: Zilberstein, "Inured to Empire," 3. 
+[^20]: Jonathan Carver, Travels through the interior parts of North-America, in the years 1766, 1767, and 1768 (Charing-Cross and Pater-Noster Row: London, 1778), 522.
+[^21]: Aylmer Bourke Lambert, "Observation on the Zizania aquatica," Transactions of the Linnean Society of London 7 (1804): 264-265.
+[^22]: Zilberstein, "Inured to Empire," 3-4.
