@@ -113,7 +113,7 @@ Cultural traditions involving wild rice were linked to the seasons. Anishinaabe 
 In "Gathering Wild Rice, 1849–1855," Seth Eastman, an artist and U.S. Army commander at Fort Snelling, depicts three women, most likely Anishinaabe, in the process of harvesting wild rice. The watercolor drawing, the first known painting of wild rice, depicts one woman paddling a canoe and two others beating rice stalks with flat paddles. American anthropologist and ethnographer Frances Densmore later captured the multi-step harvesting process in her photography from the early twentieth century. In her 1928 "How Indians Use Wild Plants for Food, Medicine, and Crafts," Densmore describes the process of establishing harvesting camps and the act of "ricing" itself, in which Ojibwe women would harvest by traveling in birchbark canoes.[^22] When ricing, one person would paddle the canoe using a push pole (Gaandakii-iganaak), while another would knock rice stalks with special sticks (Bawa’iganaak) so that ripe rice seeds would fall into the canoe and into the lake water. After harvesting, the rice was dried on birchbark sheets, parched to loosen the husk, and pounded with wooden paddles. It would then be winnowed and trodden upon and later stored. In the lakes and streams that had not been disrupted by dam construction, year after year over the course of centuries, the knowledge and practices of ricing had been kept alive and passed down through generations of Ojibwe. 
 
 <param ve-iframe
-	   src="https://archive.org/details/NL000379">
+	   src="https://ia601809.us.archive.org/6/items/NL000379/NL000379_o2.jpg">
 
 <param ve-image
 	   src= "wc:Wild_rice_harvesting_and_processing_-_NARA_-_285183.jpg"
