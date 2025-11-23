@@ -103,7 +103,7 @@ Wild rice plays an important part in the aquatic plant communities of the northe
 src= "wc:Wild_rice_plants_-_NARA_-_285206.jpg"
 caption="Swipe across images to view the conditions of wild rice habitat in 1937 and 2010">
 <param ve-compare
-src= “wc:Northern_Wild_Rice_(Zizania_palustris),_Coventry,_RI_(39518308664).jpg“ >
+src= "wc:Northern_Wild_Rice_(Zizania_palustris),_Coventry,_RI_(39518308664).jpg"> 
 
 Like other grasses, a crucial phase of the wild rice’s life cycle is the shattering of the mature seed, which occurs when the seed drops off the plant once it ripens. Seed heads are located at the top of the plant, and ripe seeds drop from the plant into the water, sinking to the soil where they remain dormant over the winter. They usually [germinate](https://en.wikipedia.org/wiki/Germination) in the following spring. By early summer, wild rice forms floating mats of leaves and seeds cross-pollinated by wind. After reaching maturity in late summer and being harvested in late summer or early autumn, the grass dies. Seed shattering occurs over days to weeks, which allows for multiple harvests to take place.
 
