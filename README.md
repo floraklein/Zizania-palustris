@@ -24,14 +24,22 @@ The *Zizania* genus is housed in the Oryza genus of the Poaceae (grass) family. 
 src="gh:floraklein/Zizania-palustris/main/wild%20rice/KEW%20POW%20Z%20palustris.jpg"
 caption="xxx">  
 <param ve-image
-	   src="gh:floraklein/Zizania-palustris/main/wild%20rice/Kew%20POW%20Z%20palustris%20dist.png"> 
-			
-and esri map(s)
+	   src="gh:floraklein/Zizania-palustris/main/wild%20rice/Kew%20POW%20Z%20palustris%20dist.png"
+	   caption="xxx"> 
+<param ve-image
+src="wc:The_book_of_grasses_-_an_illustrated_guide_to_the_common_grasses,_and_the_most_common_of_the_rushes_and_sedges_(1912)_(14576920329).jpg"
+caption="xxx"
+fit="contain">  
 
 *Z. palustris*, whose specific epithet translates as "marshy" or "swampy," was originally thought to belong to *Z. aquatica*, a species of wild rice native to the Eastern United States. However, in his *Mantissa Plantarum Altera* (1771), a book of botanical text and illustrations, Swedish botanist [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) distinguishes the two plants as separate species.[^3]
 
+<param ve-image
+	   src= "wc:Carl_von_Linné.jpg"
+	caption="xxx"
+	   fit="contain">
 <param ve-iframe
 	   src="https://www.biodiversitylibrary.org/page/42945403#page/163/">
+
 
 The turn of the twenty-first century saw the release of the first wild rice genome map, and with it came concern over the flow of genes from cultivated to wild rice stands, or groups of plants.[^4] In the wild-rice waters of northern Minnesota, researchers have found that wild rice populations are genetically distinct from one another and that there is very little [gene flow](https://en.wikipedia.org/wiki/Gene_flow) across watersheds.[^5] Concerns remain that genetically diverse wild stands, whose seeds are unable to be stored in [ex situ repositories](https://en.wikipedia.org/wiki/Seed_bank), will be overtaken by genetically modified wild rice supergroups.[^6] 
 
