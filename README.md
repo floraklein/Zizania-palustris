@@ -98,15 +98,12 @@ image of Carver writing?
 
 In his 1803 "Observation on the *Zizania aquatica*," British botanist Aylmer Bourke Lambert described the transportation of *Z. aquatica* seeds from Canada to Europe in glass jars. Long considered a "desideratum among the botanists of [England]," he noted his desire to grow the seeds in the "many shallow pieces of water" in Great Britain and Ireland.[^18] Beginning with French botanist André Michaux, few, if any, were able to grow wild rice in Europe.[^19]
 
-TEXT: Lambert London text - TBD
 <param ve-iframe
 src="https://www.biodiversitylibrary.org/page/756477#page/317/">
-Image: Lambert
 <param ve-image
 	   src= "wc:Aylmer_Bourke_Lambert._Stipple_engraving_by_W._Holl,_1805,_a_Wellcome_V0003335.jpg"
 	caption="xxx"
-	   fit="contain">
-Image: Michaux 
+	   fit="contain"> 
 <param ve-image
 	   src= "wc:François_André_Michaux_(1770–1855).jpg"
 	caption="xxx"
