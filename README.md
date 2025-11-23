@@ -98,7 +98,19 @@ image of Carver writing?
 
 In his 1803 "Observation on the *Zizania aquatica*," British botanist Aylmer Bourke Lambert described the transportation of *Z. aquatica* seeds from Canada to Europe in glass jars. Long considered a "desideratum among the botanists of [England]," he noted his desire to grow the seeds in the "many shallow pieces of water" in Great Britain and Ireland.[^18] Beginning with French botanist André Michaux, few, if any, were able to grow wild rice in Europe.[^19]
 
-Lambert text
+TEXT: Lambert London text - TBD
+<param ve-iframe
+src="https://www.biodiversitylibrary.org/page/756477#page/317/">
+Image: Lambert
+<param ve-image
+	   src= "wc:Aylmer_Bourke_Lambert._Stipple_engraving_by_W._Holl,_1805,_a_Wellcome_V0003335.jpg"
+	caption="xxx"
+	   fit="contain">
+Image: Michaux 
+<param ve-image
+	   src= "wc:François_André_Michaux_(1770–1855).jpg"
+	caption="xxx"
+	   fit="contain">
 
 In fact, botanists were beginning to understand that seeds alone were not enough to ensure that the plant would flourish in Europe. Indeed, because of the highly specific habitat conditions required for wild rice growth, these early cultivation attempts failed. In an 1852 United States geological survey, American geologist David Dale Owen wrote: "This grain has been frequently introduced to the attention of cultivators, and is worth of notice, not only for the value of its products, but the peculiar nature of the soil to which it is adapted, being necessarily unfit for any of our ordinary cultivated grains." He later specified, "It is in these situations best exposed to the proper degree of inundation, and finds a suitable bed of the slimy sand, in which [wild rice] grows most readily. It is rarely met with on inland lakes which have no outlet."[^20] Owen described the specific features of wild rice habitat, including the regular inundation, steady water flow, and relative water depth required for wild rice growth in aquatic habitats, painting a picture of the unique landscapes that proved critical to the plant’s successful growth. 
 
@@ -108,7 +120,7 @@ David Dale Owen text or image of landscape
 
 Cultural traditions involving wild rice were linked to the seasons. Anishinaabe harvesters would set up harvest camps, or Manoominikewin, for "ricing." In 1820, Henry Schoolcraft, on an expedition to find the source of the Mississippi River, noted the role of wild rice as a foodstuff closely linked to seasonal change: "The necessity of changing their camps often, to procure game or fish, the want of domesticated animals, the general dependence on wild rice, and the custom of journeying in canoes, has produced a general uniformity of life."[^21]
 
-?
+IMAGE: Henry Schoolcraft Text - TBD
 
 In "Gathering Wild Rice, 1849–1855," Seth Eastman, an artist and U.S. Army commander at Fort Snelling, depicts three women, most likely Anishinaabe, in the process of harvesting wild rice. The watercolor drawing, the first known painting of wild rice, depicts one woman paddling a canoe and two others beating rice stalks with flat paddles. American anthropologist and ethnographer Frances Densmore later captured the multi-step harvesting process in her photography from the early twentieth century. In her 1928 "How Indians Use Wild Plants for Food, Medicine, and Crafts," Densmore describes the process of establishing harvesting camps and the act of "ricing" itself, in which Ojibwe women would harvest by traveling in birchbark canoes.[^22] When ricing, one person would paddle the canoe using a push pole (Gaandakii-iganaak), while another would knock rice stalks with special sticks (Bawa’iganaak) so that ripe rice seeds would fall into the canoe and into the lake water. After harvesting, the rice was dried on birchbark sheets, parched to loosen the husk, and pounded with wooden paddles. It would then be winnowed and trodden upon and later stored. In the lakes and streams that had not been disrupted by dam construction, year after year over the course of centuries, the knowledge and practices of ricing had been kept alive and passed down through generations of Ojibwe. 
 
