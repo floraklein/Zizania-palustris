@@ -82,7 +82,7 @@ David Dale Owen text or image of landscape
 
 Cultural traditions involving wild rice were linked to the seasons. Anishinaabe harvesters would set up harvest camps, or Manoominikewin, for "ricing." In 1820, Henry Schoolcraft, on an expedition to find the source of the Mississippi River, noted the role of wild rice as a foodstuff closely linked to seasonal change: "The necessity of changing their camps often, to procure game or fish, the want of domesticated animals, the general dependence on wild rice, and the custom of journeying in canoes, has produced a general uniformity of life."[^21]
 
-image of ricing camp
+?
 
 In "Gathering Wild Rice, 1849–1855," Seth Eastman, an artist and U.S. Army commander at Fort Snelling, depicts three women, most likely Anishinaabe, in the process of harvesting wild rice. The watercolor drawing, the first known painting of wild rice, depicts one woman paddling a canoe and two others beating rice stalks with flat paddles. American anthropologist and ethnographer Frances Densmore later captured the multi-step harvesting process in her photography from the early twentieth century. In her 1928 "How Indians Use Wild Plants for Food, Medicine, and Crafts," Densmore describes the process of establishing harvesting camps and the act of "ricing" itself, in which Ojibwe women would harvest by traveling in birchbark canoes.[^22] When ricing, one person would paddle the canoe using a push pole (Gaandakii-iganaak), while another would knock rice stalks with special sticks (Bawa’iganaak) so that ripe rice seeds would fall into the canoe and into the lake water. After harvesting, the rice was dried on birchbark sheets, parched to loosen the husk, and pounded with wooden paddles. It would then be winnowed and trodden upon and later stored. In the lakes and streams that had not been disrupted by dam construction, year after year over the course of centuries, the knowledge and practices of ricing had been kept alive and passed down through generations of Ojibwe. 
 
@@ -90,17 +90,24 @@ image of Seth Eastman painting
 
 Historically, both Ojibwe men and women performed wild rice harvesting, with men steering the canoe and women knocking the grains into the canoe. In the decades following land cessions, forced migration, and colonial settlement, the labor relations and gender roles involved in harvesting changed. During the early twentieth century, the state of Minnesota created [wild rice camps](https://www.kaxe.org/local-news/2023-09-22/wild-rice-camp-highlights-sacred-plant-and-the-fight-to-protect-it), and state control over wild rice harvesting was codified in 1939.[^23] According to Ojibwe historian Brenda Child, the wild rice waters and ricing camps were gendered spaces where women expressed autonomy through the labor and organization of creating and maintaining wild rice economies. Indeed, the wild rice waters themselves became a gendered landscape through women’s involvement in and jurisdiction over harvesting and ricing.[^24]
 
-image of women
+<param ve-image
+	   src= "wc:Wild_rice_harvesting_and_processing_-_NARA_-_285183.jpg"
+	caption="xxx"
+	   fit="contain">
 
 ### Landscape as Collaborator
 
 Wild rice plays an important part in the aquatic plant communities of the northern Great Lakes region. It benefits local food networks and wetland ecology by participating in the water [nutrient cycle](https://en.wikipedia.org/wiki/Nutrient_cycle), stabilizing coastal river wetland sediment and providing habitat for other species. Rooted in sediment, the plant grows along the margins of small streams and shallow lakes. Albert Jenks, a University of Minnesota professor of anthropology, noted the landscape conditions required for its growth in his *Wild Rice Gatherers of the Upper Lakes* (1907): "Wherever the last glacier left little mid-bottomed, water-filled hollows, there wild rice has established itself, if other conditions are favorable. Such ponds and lakes are characteristic of the alluvial apron spread out over Wisconsin and Minnesota."[^25]
 
-image of habitat
+<param ve-image
+	   src= "wc:Wild_rice_plants_-_NARA_-_285206.jpg"
+	caption="Swipe across images to view the conditions of wild rice habitat in 1937 and 2010">
+	<param ve-image
+		   src= “wc:Northern_Wild_Rice_(Zizania_palustris),_Coventry,_RI_(39518308664).jpg“ >
 
 Like other grasses, a crucial phase of the wild rice’s life cycle is the shattering of the mature seed, which occurs when the seed drops off the plant once it ripens. Seed heads are located at the top of the plant, and ripe seeds drop from the plant into the water, sinking to the soil where they remain dormant over the winter. They usually [germinate](https://en.wikipedia.org/wiki/Germination) in the following spring. By early summer, wild rice forms floating mats of leaves and seeds cross-pollinated by wind. After reaching maturity in late summer and being harvested in late summer or early autumn, the grass dies. Seed shattering occurs over days to weeks, which allows for multiple harvests to take place.
 
-image of seed or seed shattering
+
 
 Harvesting was not only a process of gathering but also a process of reseeding the plant for future harvests. Jenks wrote that "the plant, unless it is artificially sown, is gradually being extinguished in such beds as are continuously used."[^26] The significant portion of seeds being knocked back into water rather than harvested in the canoe was not waste, but an active management strategy. Responsive to changing environmental conditions, the reseeding during harvest treats the landscape as a collaborator: to remain viable, wild rice seeds require submergence in the soil during undisturbed dormancy. The aquatic landscape remains an active participant in the reseeding process, highlighting the importance of the landscape itself in maintaining a relationship between wild rice and humans. Defined by ecologist Fikret Berkes, TEK is a knowledge-practice-belief complex comprising experience gleaned from thousands of years of direct human contact with their environment.[^27] The artificial sowing of wild rice seeds is one example of the activation of TEK.[^28]
 
