@@ -100,10 +100,10 @@ Historically, both Ojibwe men and women performed wild rice harvesting, with men
 Wild rice plays an important part in the aquatic plant communities of the northern Great Lakes region. It benefits local food networks and wetland ecology by participating in the water [nutrient cycle](https://en.wikipedia.org/wiki/Nutrient_cycle), stabilizing coastal river wetland sediment and providing habitat for other species. Rooted in sediment, the plant grows along the margins of small streams and shallow lakes. Albert Jenks, a University of Minnesota professor of anthropology, noted the landscape conditions required for its growth in his *Wild Rice Gatherers of the Upper Lakes* (1907): "Wherever the last glacier left little mid-bottomed, water-filled hollows, there wild rice has established itself, if other conditions are favorable. Such ponds and lakes are characteristic of the alluvial apron spread out over Wisconsin and Minnesota."[^25]
 
 <param ve-compare
-	   src= "wc:Wild_rice_plants_-_NARA_-_285206.jpg"
-	caption="Swipe across images to view the conditions of wild rice habitat in 1937 and 2010">
-	<param ve-compare
-		   src= “wc:Northern_Wild_Rice_(Zizania_palustris),_Coventry,_RI_(39518308664).jpg“ >
+src= "wc:Wild_rice_plants_-_NARA_-_285206.jpg"
+caption="Swipe across images to view the conditions of wild rice habitat in 1937 and 2010">
+<param ve-compare
+src= “wc:Northern_Wild_Rice_(Zizania_palustris),_Coventry,_RI_(39518308664).jpg“ >
 
 Like other grasses, a crucial phase of the wild rice’s life cycle is the shattering of the mature seed, which occurs when the seed drops off the plant once it ripens. Seed heads are located at the top of the plant, and ripe seeds drop from the plant into the water, sinking to the soil where they remain dormant over the winter. They usually [germinate](https://en.wikipedia.org/wiki/Germination) in the following spring. By early summer, wild rice forms floating mats of leaves and seeds cross-pollinated by wind. After reaching maturity in late summer and being harvested in late summer or early autumn, the grass dies. Seed shattering occurs over days to weeks, which allows for multiple harvests to take place.
 
