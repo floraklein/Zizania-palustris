@@ -109,6 +109,9 @@ Historically, both Ojibwe men and women performed wild rice harvesting, with men
 	   src= "wc:Wild_rice_harvesting_and_processing_-_NARA_-_285183.jpg"
 	caption="xxx"
 	   fit="contain">
+	   
+<param ve-video
+	   src="HvLvwo3a5PU"> 
 
 ### Landscape as Collaborator
 
