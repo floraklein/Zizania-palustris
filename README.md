@@ -28,7 +28,10 @@ mantissa plantarum altera *
 
 The turn of the twenty-first century saw the release of the first wild rice genome map, and with it came concern over the flow of genes from cultivated to wild rice stands, or groups of plants.[^4] In the wild-rice waters of northern Minnesota, researchers have found that wild rice populations are genetically distinct from one another and that there is very little [gene flow](https://en.wikipedia.org/wiki/Gene_flow) across watersheds.[^5] Concerns remain that genetically diverse wild stands, whose seeds are unable to be stored in [ex situ repositories](https://en.wikipedia.org/wiki/Seed_bank), will be overtaken by genetically modified wild rice supergroups.[^6] 
 
-image of wild rice
+<param ve-image
+	   src= "wc:Wild_Rice_at_sunset_on_Big_Sandy_Lake_in_McGregor,_Minnesota.jpg"
+	caption="Wild Rice at sunset on Big Sandy Lake, McGregor, Minnesota"
+	   fit="contain">
 
 ### Wild Rice in Indigenous Prophecy
 
@@ -38,7 +41,10 @@ migration map
 
 The wild rice, called manoomin, was considered a special gift from the Creator that tied Anishinaabe people to the lands, and became a part of Anishinaabe  [materia medica](https://en.wikipedia.org/wiki/Materia_medica), serving both ritual and medicinal purposes. Considered the most sacred mashkiki, or medicine, manoomin contains not only a material presence, but also a spiritual one, providing both nourishment and healing,[^8] and was used to promote recovery from sickness through ingestion or topical poultices. The rice harvest became a ritualized practice—gathering it and other *mashkiki* from the Gichimanidoogitigan, or “Creator’s Garden,” was timed to coincide with the autumnal harvest and was often overseen by a rice chief.[^9]
 
-image of wild rice
+<param ve-image
+	   src= "wc:Zizania_palustris_macro.jpg"
+	caption="xxx"
+	   fit="contain">
 
 ### Traders, Treaties, and Usufructuary Rights
 
