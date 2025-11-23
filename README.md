@@ -20,7 +20,10 @@ fit="contain">
 
 The *Zizania* genus is housed in the Oryza genus of the Poaceae (grass) family. *Zizania palustris* is one of four wild rice species native to North America, the other three being *Z. aquatica*, *Z. texana*, and *Z. latifolia*. *Z. palustris* is unrelated to the more commonly known Oryza white rice domesticated in Africa and Asia. The two species diverged twenty-six to thirty million years ago, with *Zizania* becoming established in North America about five million years ago and expanding across the continent using ice-age [refugia](https://en.wikipedia.org/wiki/Glacial_refugium).[^2]  Unlike white rice, wild rice is not a "true" rice and is instead a species of aquatic grass whose seeds resemble white rice grains. 
 
-map of wild rice in north america and images of each type of Zizania *
+<param ve-map prefer-geojson
+	   center="44.46/-100.23 "
+	   zoom="3.2"
+			 title="North American distribution of *Zizania* species"> 
 
 *Z. palustris*, whose specific epithet translates as "marshy" or "swampy," was originally thought to belong to *Z. aquatica*, a species of wild rice native to the Eastern United States. However, in his *Mantissa Plantarum Altera* (1771), a book of botanical text and illustrations, Swedish botanist [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) distinguishes the two plants as separate species.[^3]
 
