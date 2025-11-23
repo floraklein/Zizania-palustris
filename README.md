@@ -88,6 +88,21 @@ In "Gathering Wild Rice, 1849–1855," Seth Eastman, an artist and U.S. Army com
 
 image of Seth Eastman painting
 
+<param ve-image
+	   src= "wc:Wild_rice_harvesting_and_processing_-_NARA_-_285183.jpg"
+	caption="xxx"
+	   fit="contain">
+	   
+<param ve-image
+	   src= "wc:Winnowing_the_wild_rice_in_a_birch_bark_basket 1.jpg"
+	caption="xxx"
+	   fit="contain">
+	   
+<param ve-image
+	   src= "wc:Parching_the_wild_rice_over_an_open_flame 1.jpg"
+	caption="xxx"
+	   fit="contain">
+
 Historically, both Ojibwe men and women performed wild rice harvesting, with men steering the canoe and women knocking the grains into the canoe. In the decades following land cessions, forced migration, and colonial settlement, the labor relations and gender roles involved in harvesting changed. During the early twentieth century, the state of Minnesota created [wild rice camps](https://www.kaxe.org/local-news/2023-09-22/wild-rice-camp-highlights-sacred-plant-and-the-fight-to-protect-it), and state control over wild rice harvesting was codified in 1939.[^23] According to Ojibwe historian Brenda Child, the wild rice waters and ricing camps were gendered spaces where women expressed autonomy through the labor and organization of creating and maintaining wild rice economies. Indeed, the wild rice waters themselves became a gendered landscape through women’s involvement in and jurisdiction over harvesting and ricing.[^24]
 
 <param ve-image
@@ -101,17 +116,25 @@ Wild rice plays an important part in the aquatic plant communities of the northe
 
 <param ve-compare
 src= "wc:Wild_rice_plants_-_NARA_-_285206.jpg"
-caption="Swipe across images to view the conditions of wild rice habitat in 1937 and 2010">
+caption="Swipe across images to view the conditions of wild rice habitat in 2010 and 1937">
 <param ve-compare
 src= "wc:Northern_Wild_Rice_(Zizania_palustris),_Coventry,_RI_(39518308664).jpg"> 
 
 Like other grasses, a crucial phase of the wild rice’s life cycle is the shattering of the mature seed, which occurs when the seed drops off the plant once it ripens. Seed heads are located at the top of the plant, and ripe seeds drop from the plant into the water, sinking to the soil where they remain dormant over the winter. They usually [germinate](https://en.wikipedia.org/wiki/Germination) in the following spring. By early summer, wild rice forms floating mats of leaves and seeds cross-pollinated by wind. After reaching maturity in late summer and being harvested in late summer or early autumn, the grass dies. Seed shattering occurs over days to weeks, which allows for multiple harvests to take place.
 
-
+<param ve-image
+	   src= "wc:Zizania_palustris 1.jpg"
+	caption="xxx"
+	   fit="contain">
 
 Harvesting was not only a process of gathering but also a process of reseeding the plant for future harvests. Jenks wrote that "the plant, unless it is artificially sown, is gradually being extinguished in such beds as are continuously used."[^26] The significant portion of seeds being knocked back into water rather than harvested in the canoe was not waste, but an active management strategy. Responsive to changing environmental conditions, the reseeding during harvest treats the landscape as a collaborator: to remain viable, wild rice seeds require submergence in the soil during undisturbed dormancy. The aquatic landscape remains an active participant in the reseeding process, highlighting the importance of the landscape itself in maintaining a relationship between wild rice and humans. Defined by ecologist Fikret Berkes, TEK is a knowledge-practice-belief complex comprising experience gleaned from thousands of years of direct human contact with their environment.[^27] The artificial sowing of wild rice seeds is one example of the activation of TEK.[^28]
 
 image of TEK framework from Fikret Berkes
+
+<param ve-image
+	   src= "wc:Photograph_of_Wilbur_Isaacson_Looking_out_over_the_Wild_Rice_Area_of_Waboose_Bay_-_DPLA_-_0942bc9d8377dda177629e2f35393908.jpg"
+	caption="xxx"
+	   fit="contain">
 
 ### Cultivation, Commodification, and Commercialization
 
@@ -125,7 +148,10 @@ Uncle Ben’s or NorCal ?
 
 Cultivation is domestication occurring in real time. Cultivated wild rice, or wild rice that has been selectively bred by humans for certain characteristics, is grown in several states, including California, Michigan, Minnesota, and Wisconsin. Wild rice has also reached an international market, with the United Kingdom serving as the largest export market for U.S.-grown cultivated wild rice. Indigenous growers mainly sell uncultivated wild rice directly to domestic consumers, while commercially cultivated wild rice is sold to large retailers. While the wild rice grown by Indigenous growers remains [undomesticated](https://en.wikipedia.org/wiki/Domestication), increased consumer access in the U.S. to wild rice through commercialization of cultivated wild rice, often at a lower cost to consumers, has also transformed the plant’s identity from a delicacy to an everyday staple as more people can incorporate wild rice into their diet.
 
-image of food
+<param ve-image
+	   src= "wc:Wisconsin_Wild_Rice_(31038061852).jpg"
+	caption="xxx"
+	   fit="contain">
 
 ### Recognizing the Rights of Nature
 
@@ -139,11 +165,17 @@ image of St Louis watershed
 
 On New Year’s Eve 2018, the White Earth Band of [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) formally recognized the legal rights of manoomin, *Zizania palustris*, in tribal court. This declaration of tribal law was an attempt to establish legal rights for the plant by enacting legal personhood for manoomin, a nonhuman person according to Indigenous worldview. The recognition of wild rice’s legal rights in tribal court is one of many cases in a global movement aimed at recognizing the [rights of nature](https://en.wikipedia.org/wiki/Rights_of_nature). The Rights of Manoomin case reflects the close relationship between plant, people, and landscape predicated on an understanding of kinship and mutual reliance according to Indigenous worldview.[^32]
 
-image of court
+<param ve-image
+	   src= "wc:A_Protect_Wild_Rice_sign_outside_Aitkin_County_Courthouse_in_Aitkin,_Minnesota 1.jpg"
+	caption="xxx"
+	   fit="contain">
 
 On August 4, 2021, the White Earth Band of Ojibwe and manoomin filed a lawsuit against the Minnesota Department of Natural Resources (DNR).[^33] *Manoomin v. Minnesota Department of Natural Resources* argued that the DNR had violated treaty rights by putting manoomin at risk by issuing an amended permit to the Enbridge corporation, which had temporarily pumped five billion gallons of water out of wild rice habitat, and asked for the DNR to nullify the pipeline water permits. 
 
-image of court
+<param ve-image
+	   src= "wc:Pipeline_Free_Manoomin_(Honor_the_Earth) 1.jpg"
+	caption="xxx"
+	   fit="contain">
 
 Because manoomin is a nonhuman person according to Ojibwe worldview, with its own rights, it was able to serve as the plaintiff in the court case. The expansion of legal protections and human rights-type legal protections to nonhuman species and ecosystems incorporates elements of TEK worldviews by highlighting the connections between human and nonhuman persons. Potawatomi scientist [Robin Wall Kimmerer](https://en.wikipedia.org/wiki/Robin_Wall_Kimmerer) characterizes this relationship as one of reciprocity, "rules of sorts that govern our taking, shape our relationships with the natural world, and rein in our tendency to consume... Reciprocity helps resolve the moral tension of taking a life by giving in return something of value that sustains the ones who sustain us."[^34] The link between people, place, and plant, evidenced in the relationship between the Ojibwe and wild rice, serves as a framework for expanding notions of care and conservation across worldviews.
 
@@ -157,7 +189,11 @@ While the case was dismissed in March 2022 by the White Earth Band of Ojibwe Cou
 
 From early botanical attempts at domestication in Europe and its role in newly created trade economies, to the more recent commercialization and breeding programs, wild rice serves as a key example of the entanglement of plant, people, and landscape in Indigenous worldviews. The unique growing conditions and reciprocal dependencies between the Ojibwe and wild rice acknowledge the plant’s role within larger environmental, social, and moral contexts, evidenced in early travel accounts, visual representations, and ethnographical works. More recent legal recourse both complicates and denies this worldview, asking us to reconsider how the moral frameworks central to TEK might allow us to better acknowledge the agency of plants and the impact of human and plant relationships on our ecosystems and landscapes today.
 
-final image ? people and plant
+<param ve-image
+	   src= "wc:Processed_wild_rice_at_Wild_Rice_House_in_Finland,_Minnesota_(51432379817).jpg"
+	caption="xxx"
+	   fit="contain">
+
 
 [^1]: Lillian McGilp, Claudia Castell-Miller, Matthew Haas, Rennet Millas, Jennifer Kimball, "Northern Wild Rice (Zizania palustris L.) breeding, genetics, and conservation," *Crop Science* 63, no. 4 (2023): 1907.
 [^2]: McGilp et al., "Northern Wild Rice (Zizania palustris L.) breeding, genetics, and conservation," 1905.
