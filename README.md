@@ -56,7 +56,7 @@ The turn of the twenty-first century saw the release of the first wild rice geno
 
 The intertwined story of people and plant in North America begins around 950 C.E. The Anishinaabe nation received a prophecy from the prophets of the [Seven Fires](https://en.wikipedia.org/wiki/Seven_fires_prophecy) and a floating seashell, called the sacred [miigis](http://nativeamericannetroots.net/diary/1392). The prophecy instructed them to travel westward to where the "food grows on water," referring to wild rice.[^7] The Anishinaabe migration occurred over the course of approximately five hundred years and included several legs to the journey. The Ojibwe people of the Anishinaabe nation eventually settled in Gichigami, the area east of Lake Superior, in present-day Minnesota. This pushed the [Dakota](https://www.mnhs.org/fortsnelling/learn/native-americans/dakota-people), the previous inhabitants of the region, to relocate to the south and west.
 
-migration map
+IMAGE: Anishinaabe migration map - TBD
 
 The wild rice, called manoomin, was considered a special gift from the Creator that tied Anishinaabe people to the lands, and became a part of Anishinaabe  [materia medica](https://en.wikipedia.org/wiki/Materia_medica), serving both ritual and medicinal purposes. Considered the most sacred mashkiki, or medicine, manoomin contains not only a material presence, but also a spiritual one, providing both nourishment and healing,[^8] and was used to promote recovery from sickness through ingestion or topical poultices. The rice harvest became a ritualized practice—gathering it and other *mashkiki* from the Gichimanidoogitigan, or “Creator’s Garden,” was timed to coincide with the autumnal harvest and was often overseen by a rice chief.[^9]
 
@@ -64,12 +64,19 @@ The wild rice, called manoomin, was considered a special gift from the Creator t
 	   src= "wc:Zizania_palustris_macro.jpg"
 	caption="xxx"
 	   fit="contain">
+<param ve-image
+	   src= "wc:Manoomin_picking,_1905,_Minnesota 2.jpg"
+	caption="xxx"
+	   fit="contain">
 
 ### Traders, Treaties, and Usufructuary Rights
 
 The first Europeans to arrive in the Great Lakes region were the French explorers and missionaries in the 1620s. The Ojibwe acted as their guides, interpreters, and trading partners, often using the Ojibwe language as the lingua franca in [trading](https://www.mnhs.org/fortsnelling/learn/fur-trade). Jacques Marquette, a French Jesuit missionary and the first European to map the northern part of the Mississippi River Valley, described the wild rice as *folle avoine*, translated as wild oats or fool oats, or as a "sort of grass" that resembled the leguminous tare grass growing amid wheat in France. European travelers also compared the aquatic growing conditions of wild rice along lake and stream margins to the flooded [paddies](https://en.wikipedia.org/wiki/Paddy_field) used for rice cultivation in Asia. The [Menominee](https://en.wikipedia.org/wiki/Menominee) tribe was referred to as manoominiig, the "wild rice people," by both the Ojibwe and the French.[^10] As scholar Thomas Vennum wrote, "Each of these groups had a diversified economy and therefore depended upon wild rice for food and trade to differing degrees."[^11] For the Anishinaabe, the wild rice provided the means to avoid trade dependencies with entities such as the Hudson’s Bay Company by becoming a surplus trade good.[^12]
 
-?
+<param ve-image
+	   src= "wc:"
+	caption="xxx"
+	   fit="contain">
 
 Several land treaties between the Ojibwe and the United States were signed in the mid-nineteenth century, including the Treaty of 1836, the Treaty of 1837, and the Treaty of 1842. The land treaties gave the Ojibwe usufructuary rights, or the "right to use legal property," which included the right to hunt, fish, and gather on ceded territory. Despite those treaties, the [Dawes Act of 1887](https://en.wikipedia.org/wiki/Dawes_Act) forcibly removed the Ojibwe from their land to boarding schools, camps, and mills. It also implemented the process of privatized land allotment and led to the creation of reservations.[^13]
 
@@ -105,7 +112,8 @@ Cultural traditions involving wild rice were linked to the seasons. Anishinaabe 
 
 In "Gathering Wild Rice, 1849–1855," Seth Eastman, an artist and U.S. Army commander at Fort Snelling, depicts three women, most likely Anishinaabe, in the process of harvesting wild rice. The watercolor drawing, the first known painting of wild rice, depicts one woman paddling a canoe and two others beating rice stalks with flat paddles. American anthropologist and ethnographer Frances Densmore later captured the multi-step harvesting process in her photography from the early twentieth century. In her 1928 "How Indians Use Wild Plants for Food, Medicine, and Crafts," Densmore describes the process of establishing harvesting camps and the act of "ricing" itself, in which Ojibwe women would harvest by traveling in birchbark canoes.[^22] When ricing, one person would paddle the canoe using a push pole (Gaandakii-iganaak), while another would knock rice stalks with special sticks (Bawa’iganaak) so that ripe rice seeds would fall into the canoe and into the lake water. After harvesting, the rice was dried on birchbark sheets, parched to loosen the husk, and pounded with wooden paddles. It would then be winnowed and trodden upon and later stored. In the lakes and streams that had not been disrupted by dam construction, year after year over the course of centuries, the knowledge and practices of ricing had been kept alive and passed down through generations of Ojibwe. 
 
-image of Seth Eastman painting
+<param ve-iframe
+	   src="https://archive.org/details/NL000379">
 
 <param ve-image
 	   src= "wc:Wild_rice_harvesting_and_processing_-_NARA_-_285183.jpg"
