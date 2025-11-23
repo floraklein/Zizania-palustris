@@ -44,6 +44,10 @@ fit="contain">
 The turn of the twenty-first century saw the release of the first wild rice genome map, and with it came concern over the flow of genes from cultivated to wild rice stands, or groups of plants.[^4] In the wild-rice waters of northern Minnesota, researchers have found that wild rice populations are genetically distinct from one another and that there is very little [gene flow](https://en.wikipedia.org/wiki/Gene_flow) across watersheds.[^5] Concerns remain that genetically diverse wild stands, whose seeds are unable to be stored in [ex situ repositories](https://en.wikipedia.org/wiki/Seed_bank), will be overtaken by genetically modified wild rice supergroups.[^6] 
 
 <param ve-image
+	   src= "wc:Zizania_palustris_15-p.bot-ziza.palus-4 1.jpg"
+	caption="xxx"
+	   fit="contain">
+<param ve-image
 	   src= "wc:Wild_Rice_at_sunset_on_Big_Sandy_Lake_in_McGregor,_Minnesota.jpg"
 	caption="Wild Rice at sunset on Big Sandy Lake, McGregor, Minnesota"
 	   fit="contain">
