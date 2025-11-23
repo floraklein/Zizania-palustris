@@ -2,30 +2,29 @@
 
 <param ve-config
        title="Wild Rice: Connecting People to Place"
-       source-image="https://commons.wikimedia.org/wiki/File:Wild_rice_in_McGregor,_Minnesota.jpg"
-       banner="https://commons.wikimedia.org/wiki/File:Wild_rice_in_McGregor,_Minnesota.jpg"
-       height=100
+	   source-image="https://commons.wikimedia.org/wiki/File:Zizania_palustris_(20150206966).jpg"
+	   banner="https://commons.wikimedia.org/wiki/File:Zizania_palustris_(20150206966).jpg"
+	   height=100
        author="Flora Klein"
        layout="vertical">
 	   
 ### Introduction
 
 Known for its distinct flavor and chewy texture, wild rice has become a gourmet delicacy and health food staple throughout the United States. Today, many Americans encounter the plant in rice mixes produced by companies such as Ben’s Original. Northern wild rice, or *Zizania palustris*, is an aquatic grass species native to the Great Lakes region of North America. Evidence of human use dates to the Late Archaic and [Early Woodland](https://en.wikipedia.org/wiki/Woodland_period), around two thousand years ago.[^1] The Ojibwe are one of three tribes constituting the [Anishinaabe](https://en.wikipedia.org/wiki/Anishinaabe), or “original people,” an Indigenous nation in the Great Lakes region of North America. For the Ojibwe, wild rice is not only a foodstuff and a medicinal plant; it is also considered a sacred being with cultural and spiritual significance. Wild rice stalks are known as manoomin, or "good berry," in Anishinaabe language and as Psíŋ in Dakota. Dependent on highly specific landscape conditions for growth, the history of wild rice draws upon botanical and [Traditional Ecological Knowledge](https://blog.ucs.org/science-blogger/the-importance-of-traditional-ecological-knowledge-tek-when-examining-climate-change/) (TEK) and reflects a close interweaving between people, place, and plant.
-
 <param ve-image
 src="wc:Wild_rice_in_McGregor,_Minnesota.jpg"
 caption="Wild rice flowers in McGregor, Minnesota."
-fit="contain">
+fit="contain">  
 
 ### Botanical Nomenclature
 
 The *Zizania* genus is housed in the Oryza genus of the Poaceae (grass) family. *Zizania palustris* is one of four wild rice species native to North America, the other three being *Z. aquatica*, *Z. texana*, and *Z. latifolia*. *Z. palustris* is unrelated to the more commonly known Oryza white rice domesticated in Africa and Asia. The two species diverged twenty-six to thirty million years ago, with *Zizania* becoming established in North America about five million years ago and expanding across the continent using ice-age [refugia](https://en.wikipedia.org/wiki/Glacial_refugium).[^2]  Unlike white rice, wild rice is not a "true" rice and is instead a species of aquatic grass whose seeds resemble white rice grains. 
 
-map of wild rice in north america and images of each type of Zizania
+map of wild rice in north america and images of each type of Zizania *
 
 *Z. palustris*, whose specific epithet translates as "marshy" or "swampy," was originally thought to belong to *Z. aquatica*, a species of wild rice native to the Eastern United States. However, in his *Mantissa Plantarum Altera* (1771), a book of botanical text and illustrations, Swedish botanist [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) distinguishes the two plants as separate species.[^3]
 
-mantissa plantarum altera
+mantissa plantarum altera *
 
 The turn of the twenty-first century saw the release of the first wild rice genome map, and with it came concern over the flow of genes from cultivated to wild rice stands, or groups of plants.[^4] In the wild-rice waters of northern Minnesota, researchers have found that wild rice populations are genetically distinct from one another and that there is very little [gene flow](https://en.wikipedia.org/wiki/Gene_flow) across watersheds.[^5] Concerns remain that genetically diverse wild stands, whose seeds are unable to be stored in [ex situ repositories](https://en.wikipedia.org/wiki/Seed_bank), will be overtaken by genetically modified wild rice supergroups.[^6] 
 
