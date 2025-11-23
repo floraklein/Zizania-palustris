@@ -23,7 +23,9 @@ The *Zizania* genus is housed in the Oryza genus of the Poaceae (grass) family. 
 <param ve-image
 src="gh:floraklein/Zizania-palustris/main/wild%20rice/KEW%20POW%20Z%20palustris.jpg"
 caption="xxx">  
-
+<param ve-image
+	   src="gh:floraklein/Zizania-palustris/main/wild%20rice/Kew%20POW%20Z%20palustris%20dist.png"> 
+			
 and esri map(s)
 
 *Z. palustris*, whose specific epithet translates as "marshy" or "swampy," was originally thought to belong to *Z. aquatica*, a species of wild rice native to the Eastern United States. However, in his *Mantissa Plantarum Altera* (1771), a book of botanical text and illustrations, Swedish botanist [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) distinguishes the two plants as separate species.[^3]
