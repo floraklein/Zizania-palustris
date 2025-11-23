@@ -122,7 +122,6 @@ Historically, both Ojibwe men and women performed wild rice harvesting, with men
 	caption="xxx"
 	   fit="contain">
 	   
-
 ### Landscape as Collaborator
 
 Wild rice plays an important part in the aquatic plant communities of the northern Great Lakes region. It benefits local food networks and wetland ecology by participating in the water [nutrient cycle](https://en.wikipedia.org/wiki/Nutrient_cycle), stabilizing coastal river wetland sediment and providing habitat for other species. Rooted in sediment, the plant grows along the margins of small streams and shallow lakes. Albert Jenks, a University of Minnesota professor of anthropology, noted the landscape conditions required for its growth in his *Wild Rice Gatherers of the Upper Lakes* (1907): "Wherever the last glacier left little mid-bottomed, water-filled hollows, there wild rice has established itself, if other conditions are favorable. Such ponds and lakes are characteristic of the alluvial apron spread out over Wisconsin and Minnesota."[^25]
