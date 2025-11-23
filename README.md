@@ -190,6 +190,11 @@ While the case was dismissed in March 2022 by the White Earth Band of Ojibwe Cou
 From early botanical attempts at domestication in Europe and its role in newly created trade economies, to the more recent commercialization and breeding programs, wild rice serves as a key example of the entanglement of plant, people, and landscape in Indigenous worldviews. The unique growing conditions and reciprocal dependencies between the Ojibwe and wild rice acknowledge the plant’s role within larger environmental, social, and moral contexts, evidenced in early travel accounts, visual representations, and ethnographical works. More recent legal recourse both complicates and denies this worldview, asking us to reconsider how the moral frameworks central to TEK might allow us to better acknowledge the agency of plants and the impact of human and plant relationships on our ecosystems and landscapes today.
 
 <param ve-image
+	   src= "wc:Chippewa_wild_rice_harvesting 2.jpg"
+	caption="xxx"
+	   fit="contain">
+
+<param ve-image
 	   src= "wc:Processed_wild_rice_at_Wild_Rice_House_in_Finland,_Minnesota_(51432379817).jpg"
 	caption="xxx"
 	   fit="contain">
