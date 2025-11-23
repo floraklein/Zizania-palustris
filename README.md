@@ -102,6 +102,15 @@ image of Seth Eastman painting
 	   src= "wc:Parching_the_wild_rice_over_an_open_flame 1.jpg"
 	caption="xxx"
 	   fit="contain">
+	   
+<param ve-video
+	   src="SH_YYyw9yF8"> 
+	   
+<param ve-video
+	   src="6tjd7H1iQWY"> 
+	   
+<param ve-video
+	   src="EFW5QE6ahOU"> 
 
 Historically, both Ojibwe men and women performed wild rice harvesting, with men steering the canoe and women knocking the grains into the canoe. In the decades following land cessions, forced migration, and colonial settlement, the labor relations and gender roles involved in harvesting changed. During the early twentieth century, the state of Minnesota created [wild rice camps](https://www.kaxe.org/local-news/2023-09-22/wild-rice-camp-highlights-sacred-plant-and-the-fight-to-protect-it), and state control over wild rice harvesting was codified in 1939.[^23] According to Ojibwe historian Brenda Child, the wild rice waters and ricing camps were gendered spaces where women expressed autonomy through the labor and organization of creating and maintaining wild rice economies. Indeed, the wild rice waters themselves became a gendered landscape through women’s involvement in and jurisdiction over harvesting and ricing.[^24]
 
