@@ -213,13 +213,13 @@ Serious threats are posed to naturally occurring wild rice stands by the potenti
 
 <param ve-image
 	   src="gh:floraklein/Zizania-palustris/wildrice/stlouiswatershed.jpg"
-caption="Wild rice lakes in Minnesota">
+caption="St. Louis Watershed lakes, wetlands, and peat deposits">
 
 On New Year’s Eve 2018, the White Earth Band of [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) formally recognized the legal rights of manoomin, *Zizania palustris*, in tribal court. This declaration of tribal law was an attempt to establish legal rights for the plant by enacting legal personhood for manoomin, a nonhuman person according to Indigenous worldview. The recognition of wild rice’s legal rights in tribal court is one of many cases in a global movement aimed at recognizing the [rights of nature](https://en.wikipedia.org/wiki/Rights_of_nature). The Rights of Manoomin case reflects the close relationship between plant, people, and landscape predicated on an understanding of kinship and mutual reliance according to Indigenous worldview.[^32]
 
 <param ve-image
 	   src= "wc:A_Protect_Wild_Rice_sign_outside_Aitkin_County_Courthouse_in_Aitkin,_Minnesota 1.jpg"
-	caption="xxx"
+	caption="A Protect Wild Rice sign outside Aitkin County Courthouse in Aitkin, Minnesota"
 	   fit="contain">
 
 On August 4, 2021, the White Earth Band of Ojibwe and manoomin filed a lawsuit against the Minnesota Department of Natural Resources (DNR).[^33] *Manoomin v. Minnesota Department of Natural Resources* argued that the DNR had violated treaty rights by putting manoomin at risk by issuing an amended permit to the Enbridge corporation, which had temporarily pumped five billion gallons of water out of wild rice habitat, and asked for the DNR to nullify the pipeline water permits. 
