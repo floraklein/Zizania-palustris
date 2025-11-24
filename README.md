@@ -72,11 +72,6 @@ The wild rice, called manoomin, was considered a special gift from the Creator t
 
 The first Europeans to arrive in the Great Lakes region were the French explorers and missionaries in the 1620s. The Ojibwe acted as their guides, interpreters, and trading partners, often using the Ojibwe language as the lingua franca in [trading](https://www.mnhs.org/fortsnelling/learn/fur-trade). Jacques Marquette, a French Jesuit missionary and the first European to map the northern part of the Mississippi River Valley, described the wild rice as *folle avoine*, translated as wild oats or fool oats, or as a "sort of grass" that resembled the leguminous tare grass growing amid wheat in France. European travelers also compared the aquatic growing conditions of wild rice along lake and stream margins to the flooded [paddies](https://en.wikipedia.org/wiki/Paddy_field) used for rice cultivation in Asia. The [Menominee](https://en.wikipedia.org/wiki/Menominee) tribe was referred to as manoominiig, the "wild rice people," by both the Ojibwe and the French.[^10] As scholar Thomas Vennum wrote, "Each of these groups had a diversified economy and therefore depended upon wild rice for food and trade to differing degrees."[^11] For the Anishinaabe, the wild rice provided the means to avoid trade dependencies with entities such as the Hudson’s Bay Company by becoming a surplus trade good.[^12]
 
-<param ve-image
-	   src= "wc:Carte_des_voyages_du_Cape._Carver,_dans_la_partie_intérieure_de_l'Amérique_septentrionale_en_1766,_et_1767._LOC_74695016.jpg"
-	caption="xxx"
-	   fit="contain">
-
 Several land treaties between the Ojibwe and the United States were signed in the mid-nineteenth century, including the Treaty of 1836, the Treaty of 1837, and the Treaty of 1842. The land treaties gave the Ojibwe usufructuary rights, or the "right to use legal property," which included the right to hunt, fish, and gather on ceded territory. Despite those treaties, the [Dawes Act of 1887](https://en.wikipedia.org/wiki/Dawes_Act) forcibly removed the Ojibwe from their land to boarding schools, camps, and mills. It also implemented the process of privatized land allotment and led to the creation of reservations.[^13]
 
 IMAGE(S): Map of Territories ceded (Treaty of 1836, 1837, 1842, and Dawes Act of 1887)
@@ -91,11 +86,14 @@ In the decades after the signing of these treaties and the passage of the Dawes 
 
 Both Americans and Europeans fostered ambitions to cultivate wild rice outside of its native habitat. Pehr Kalm, a well-known disciple of Carl Linnaeus, undertook a collections tour of North America between 1747 and 1751. Under Linnaeus’s instructions—and as part of a project to build a larger mercantile empire within Europe, and commissioned by the Royal Swedish Academy of Sciences—Kalm’s task was to collect a "kind of Rice… used by one Nation… as food instead of grains, which grows without cultivation there in all marshes and lakes."[^15] Kalm returned to Sweden with over one hundred plant species, including *Zizania aquatica*, with the intention of domesticating the plant species in Scandinavia and trading it as a crop used for livestock feed and human consumption within greater Europe.[^16]
 
-pehr kalm image or text?
+
 
 Many travelers to the Great Lakes region following Kalm’s expedition viewed wild rice as a productive crop well-suited for potential cultivation in the analogous climates of Northern Europe. After traveling to the western Great Lakes region in the late 1760s, Jonathan Carver, an explorer and captain in a Massachusetts colonial unit, entertained the idea of producing wild rice as a domesticated crop in the "infant colonies" of the United States.[^17]
 
-image of Carver writing?
+<param ve-image
+	   src= "wc:Carte_des_voyages_du_Cape._Carver,_dans_la_partie_intérieure_de_l'Amérique_septentrionale_en_1766,_et_1767._LOC_74695016.jpg"
+	caption="xxx"
+	   fit="contain">
 
 In his 1803 "Observation on the *Zizania aquatica*," British botanist Aylmer Bourke Lambert described the transportation of *Z. aquatica* seeds from Canada to Europe in glass jars. Long considered a "desideratum among the botanists of [England]," he noted his desire to grow the seeds in the "many shallow pieces of water" in Great Britain and Ireland.[^18] Beginning with French botanist André Michaux, few, if any, were able to grow wild rice in Europe.[^19]
 
@@ -112,13 +110,13 @@ src="https://www.biodiversitylibrary.org/page/756477#page/317/">
 
 In fact, botanists were beginning to understand that seeds alone were not enough to ensure that the plant would flourish in Europe. Indeed, because of the highly specific habitat conditions required for wild rice growth, these early cultivation attempts failed. In an 1852 United States geological survey, American geologist David Dale Owen wrote: "This grain has been frequently introduced to the attention of cultivators, and is worth of notice, not only for the value of its products, but the peculiar nature of the soil to which it is adapted, being necessarily unfit for any of our ordinary cultivated grains." He later specified, "It is in these situations best exposed to the proper degree of inundation, and finds a suitable bed of the slimy sand, in which [wild rice] grows most readily. It is rarely met with on inland lakes which have no outlet."[^20] Owen described the specific features of wild rice habitat, including the regular inundation, steady water flow, and relative water depth required for wild rice growth in aquatic habitats, painting a picture of the unique landscapes that proved critical to the plant’s successful growth. 
 
-David Dale Owen text or image of landscape
+IMAGE: 
 
 ### Harvest Histories
 
 Cultural traditions involving wild rice were linked to the seasons. Anishinaabe harvesters would set up harvest camps, or Manoominikewin, for "ricing." In 1820, Henry Schoolcraft, on an expedition to find the source of the Mississippi River, noted the role of wild rice as a foodstuff closely linked to seasonal change: "The necessity of changing their camps often, to procure game or fish, the want of domesticated animals, the general dependence on wild rice, and the custom of journeying in canoes, has produced a general uniformity of life."[^21]
 
-IMAGE: Henry Schoolcraft Text - TBD
+
 
 In "Gathering Wild Rice, 1849–1855," Seth Eastman, an artist and U.S. Army commander at Fort Snelling, depicts three women, most likely Anishinaabe, in the process of harvesting wild rice. The watercolor drawing, the first known painting of wild rice, depicts one woman paddling a canoe and two others beating rice stalks with flat paddles. American anthropologist and ethnographer Frances Densmore later captured the multi-step harvesting process in her photography from the early twentieth century. In her 1928 "How Indians Use Wild Plants for Food, Medicine, and Crafts," Densmore describes the process of establishing harvesting camps and the act of "ricing" itself, in which Ojibwe women would harvest by traveling in birchbark canoes.[^22] When ricing, one person would paddle the canoe using a push pole (Gaandakii-iganaak), while another would knock rice stalks with special sticks (Bawa’iganaak) so that ripe rice seeds would fall into the canoe and into the lake water. After harvesting, the rice was dried on birchbark sheets, parched to loosen the husk, and pounded with wooden paddles. It would then be winnowed and trodden upon and later stored. In the lakes and streams that had not been disrupted by dam construction, year after year over the course of centuries, the knowledge and practices of ricing had been kept alive and passed down through generations of Ojibwe. 
 
