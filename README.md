@@ -211,7 +211,9 @@ image of habitat ?
 
 Serious threats are posed to naturally occurring wild rice stands by the potential expansion of copper and nickel open-pit mining and their toxic discharges. The amount of sulfate in the St. Louis watershed has increased over the past half-century, adversely affecting the plant’s growth. Today, pipelines like the Enbridge "Line 3" and others threaten the health not only of wild rice habitats, but also of the entire St. Louis watershed and the ecosystems contained therein. 
 
-image of St Louis watershed
+<param ve-image
+	   src="gh:floraklein/Zizania-palustris/wildrice/stlouiswatershed.jpg"
+caption="Wild rice lakes in Minnesota">
 
 On New Year’s Eve 2018, the White Earth Band of [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) formally recognized the legal rights of manoomin, *Zizania palustris*, in tribal court. This declaration of tribal law was an attempt to establish legal rights for the plant by enacting legal personhood for manoomin, a nonhuman person according to Indigenous worldview. The recognition of wild rice’s legal rights in tribal court is one of many cases in a global movement aimed at recognizing the [rights of nature](https://en.wikipedia.org/wiki/Rights_of_nature). The Rights of Manoomin case reflects the close relationship between plant, people, and landscape predicated on an understanding of kinship and mutual reliance according to Indigenous worldview.[^32]
 
