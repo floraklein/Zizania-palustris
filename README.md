@@ -33,7 +33,7 @@ fit="contain">
 *Z. palustris*, whose specific epithet translates as "marshy" or "swampy," was originally thought to belong to *Z. aquatica*, a species of wild rice native to the Eastern United States. However, in his *Mantissa Plantarum Altera* (1771), a book of botanical text and illustrations, Swedish botanist [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) distinguishes the two plants as separate species.[^3]
 <param ve-image
 	   src= "wc:Carl_von_Linné.jpg"
-	caption="xxx"
+	caption="Carl Linnaeus (1775)"
 	   fit="contain">
 <param ve-iframe
 	   src="https://www.biodiversitylibrary.org/page/42945403#page/163/mode/1up">
@@ -41,11 +41,11 @@ fit="contain">
 The turn of the twenty-first century saw the release of the first wild rice genome map, and with it came concern over the flow of genes from cultivated to wild rice stands, or groups of plants.[^4] In the wild-rice waters of northern Minnesota, researchers have found that wild rice populations are genetically distinct from one another and that there is very little [gene flow](https://en.wikipedia.org/wiki/Gene_flow) across watersheds.[^5] Concerns remain that genetically diverse wild stands, whose seeds are unable to be stored in [ex situ repositories](https://en.wikipedia.org/wiki/Seed_bank), will be overtaken by genetically modified wild rice supergroups.[^6] 
 <param ve-image
 	   src= "wc:Zizania_palustris_15-p.bot-ziza.palus-4 1.jpg"
-	caption="xxx"
+	caption="Zizania palustris"
 	   fit="contain">
 <param ve-image
 	   src= "wc:Wild_Rice_at_sunset_on_Big_Sandy_Lake_in_McGregor,_Minnesota.jpg"
-	caption="Wild Rice at sunset on Big Sandy Lake, McGregor, Minnesota"
+	caption="Wild Rice at sunset on Big Sandy Lake, McGregor, Minnesota (2021)"
 	   fit="contain">
 
 ### Wild Rice in Indigenous Prophecy
@@ -57,17 +57,16 @@ The intertwined story of people and plant in North America begins around 950 C.E
 The wild rice, called manoomin, was considered a special gift from the Creator that tied Anishinaabe people to the lands, and became a part of Anishinaabe  [materia medica](https://en.wikipedia.org/wiki/Materia_medica), serving both ritual and medicinal purposes. Considered the most sacred mashkiki, or medicine, manoomin contains not only a material presence, but also a spiritual one, providing both nourishment and healing,[^8] and was used to promote recovery from sickness through ingestion or topical poultices. The rice harvest became a ritualized practice—gathering it and other *mashkiki* from the Gichimanidoogitigan, or “Creator’s Garden,” was timed to coincide with the autumnal harvest and was often overseen by a rice chief.[^9]
 <param ve-image
 	   src= "wc:Zizania_palustris_macro.jpg"
-	caption="xxx"
+	caption="Zizania palustris"
 	   fit="contain">
 <param ve-image
 	   src= "wc:Manoomin_picking,_1905,_Minnesota 2.jpg"
-	caption="xxx"
+	caption="Manoomin picking, Minnesota (1905)"
 	   fit="contain">
 
 ### Traders, Treaties, and Usufructuary Rights
 
 The first Europeans to arrive in the Great Lakes region were the French explorers and missionaries in the 1620s. The Ojibwe acted as their guides, interpreters, and trading partners, often using the Ojibwe language as the lingua franca in [trading](https://www.mnhs.org/fortsnelling/learn/fur-trade). Jacques Marquette, a French Jesuit missionary and the first European to map the northern part of the Mississippi River Valley, described the wild rice as *folle avoine*, translated as wild oats or fool oats, or as a "sort of grass" that resembled the leguminous tare grass growing amid wheat in France. European travelers also compared the aquatic growing conditions of wild rice along lake and stream margins to the flooded [paddies](https://en.wikipedia.org/wiki/Paddy_field) used for rice cultivation in Asia. The [Menominee](https://en.wikipedia.org/wiki/Menominee) tribe was referred to as manoominiig, the "wild rice people," by both the Ojibwe and the French.[^10] As scholar Thomas Vennum wrote, "Each of these groups had a diversified economy and therefore depended upon wild rice for food and trade to differing degrees."[^11] For the Anishinaabe, the wild rice provided the means to avoid trade dependencies with entities such as the Hudson’s Bay Company by becoming a surplus trade good.[^12]
-
 <param ve-image
 	   src= "wc:A_map_of_the_British_and_French_dominions_in_North_America_-_with_the_roads,_distances,_limits,_and_extent_of_the_settlements,_humbly_inscribed_to_the_Right_Honourable_the_Earl_of_Halifax,_and_the_NYPL434076.tiff"
 	caption="'A map of the British and French dominions in North America : with the roads, distances, limits, and extent of the settlements, humbly inscribed to the Right Honourable the Earl of Halifax, and the other Right Honourable the Lords Commissioners for Trade and Plantations' (1773)"
@@ -80,18 +79,20 @@ Several land treaties between the Ojibwe and the United States were signed in th
 In the decades after the signing of these treaties and the passage of the Dawes Act, the United States Army Corps of Engineers built a series of [dams](https://www.mnhs.org/mnopedia/search/index/thing/mississippi-river-reservoir-dam-system) in the upper Mississippi watershed to control and maintain a predictable water flow for downstream mills. This hydrological alteration to the landscape resulted in the destruction of wild rice habitat due to construction-related flooding. The colonial violence of assimilation and reallocation, along with forced removal and land cession, directly led to the breakdown of Ojibwe knowledge and kinship systems.[^14]
 <param ve-image
 	   src="gh:floraklein/Zizania-palustris/Zizania-palustris/main/MNdams.jpg"
-	   caption="xxx">
+	   caption="Dams in Minnesota">
 
 ### Cultivation for Consumption
 
 Both Americans and Europeans fostered ambitions to cultivate wild rice outside of its native habitat. Pehr Kalm, a well-known disciple of Carl Linnaeus, undertook a collections tour of North America between 1747 and 1751. Under Linnaeus’s instructions—and as part of a project to build a larger mercantile empire within Europe, and commissioned by the Royal Swedish Academy of Sciences—Kalm’s task was to collect a "kind of Rice… used by one Nation… as food instead of grains, which grows without cultivation there in all marshes and lakes."[^15] Kalm returned to Sweden with over one hundred plant species, including *Zizania aquatica*, with the intention of domesticating the plant species in Scandinavia and trading it as a crop used for livestock feed and human consumption within greater Europe.[^16]
-
-image pehr kalm
+<param ve-image
+	   src= "PehrKalm.jpg"
+	caption="Pehr Kalm (1764)"
+	   fit="contain">
 
 Many travelers to the Great Lakes region following Kalm’s expedition viewed wild rice as a productive crop well-suited for potential cultivation in the analogous climates of Northern Europe. After traveling to the western Great Lakes region in the late 1760s, Jonathan Carver, an explorer and captain in a Massachusetts colonial unit, entertained the idea of producing wild rice as a domesticated crop in the "infant colonies" of the United States.[^17]
 <param ve-image
 	   src= "wc:Carte_des_voyages_du_Cape._Carver,_dans_la_partie_intérieure_de_l'Amérique_septentrionale_en_1766,_et_1767._LOC_74695016.jpg"
-	caption="xxx"
+	caption="Map of Carver’s travels in North America (1768)"
 	   fit="contain">
 
 In his 1803 "Observation on the *Zizania aquatica*," British botanist Aylmer Bourke Lambert described the transportation of *Z. aquatica* seeds from Canada to Europe in glass jars. Long considered a "desideratum among the botanists of [England]," he noted his desire to grow the seeds in the "many shallow pieces of water" in Great Britain and Ireland.[^18] Beginning with French botanist André Michaux, few, if any, were able to grow wild rice in Europe.[^19]
@@ -177,7 +178,6 @@ caption="Wild rice lakes in Minnesota">
 
 In the early 1960s, food product company Uncle Ben’s Inc.—now called Ben’s Original and owned by Mars, Inc.—began incorporating wild rice into its rice blend. Cultivated wild rice production in northern California’s Sacramento Valley began in the 1970s.[^30] In the 1980s, both Uncle Ben’s Inc. and NorCal, another California cultivator, established patents for their cultivated hybrid wild rice varieties. Between 1983 and 1986, wild rice production had surpassed Minnesota, and by 2020, California was producing 95 percent of all cultivated wild rice. Wild rice was also commercially cultivated in Canada, where, by 2023, the crop’s revenue surpassed $5 million CAN.[^31]
 
-Uncle Ben’s or NorCal ?
 
 Cultivation is domestication occurring in real time. Cultivated wild rice, or wild rice that has been selectively bred by humans for certain characteristics, is grown in several states, including California, Michigan, Minnesota, and Wisconsin. Wild rice has also reached an international market, with the United Kingdom serving as the largest export market for U.S.-grown cultivated wild rice. Indigenous growers mainly sell uncultivated wild rice directly to domestic consumers, while commercially cultivated wild rice is sold to large retailers. While the wild rice grown by Indigenous growers remains [undomesticated](https://en.wikipedia.org/wiki/Domestication), increased consumer access in the U.S. to wild rice through commercialization of cultivated wild rice, often at a lower cost to consumers, has also transformed the plant’s identity from a delicacy to an everyday staple as more people can incorporate wild rice into their diet.
 
@@ -189,6 +189,8 @@ Cultivation is domestication occurring in real time. Cultivated wild rice, or wi
 ### Recognizing the Rights of Nature
 
 With rising temperatures and less ice cover, the proliferation of wild rice is severely threatened by climate change. Its seeds, which require frozen temperatures during their dormancy, cannot germinate as well or at all in warm weather. In addition, rapid fluctuations in water depth due to severe weather events, like concentrated rainfall events and droughts, disrupt plant growth, and as a result, the amount of suitable habitat shrinks.
+<param ve-video
+	   src="46XHxnjGs4o">
 
 Serious threats are posed to naturally occurring wild rice stands by the potential expansion of copper and nickel open-pit mining and their toxic discharges. The amount of sulfate in the St. Louis watershed has increased over the past half-century, adversely affecting the plant’s growth. Today, pipelines like the Enbridge "Line 3" and others threaten the health not only of wild rice habitats, but also of the entire St. Louis watershed and the ecosystems contained therein. 
 
