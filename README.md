@@ -110,7 +110,7 @@ src="https://www.biodiversitylibrary.org/page/756477#page/317/">
 In fact, botanists were beginning to understand that seeds alone were not enough to ensure that the plant would flourish in Europe. Indeed, because of the highly specific habitat conditions required for wild rice growth, these early cultivation attempts failed. In an 1852 United States geological survey, American geologist David Dale Owen wrote: "This grain has been frequently introduced to the attention of cultivators, and is worth of notice, not only for the value of its products, but the peculiar nature of the soil to which it is adapted, being necessarily unfit for any of our ordinary cultivated grains." He later specified, "It is in these situations best exposed to the proper degree of inundation, and finds a suitable bed of the slimy sand, in which [wild rice] grows most readily. It is rarely met with on inland lakes which have no outlet."[^20] Owen described the specific features of wild rice habitat, including the regular inundation, steady water flow, and relative water depth required for wild rice growth in aquatic habitats, painting a picture of the unique landscapes that proved critical to the plant’s successful growth. 
 <param ve-image
 	   src= "wc:Photograph_of_Wilbur_Isaacson_Looking_out_over_the_Wild_Rice_Area_of_Waboose_Bay_-_DPLA_-_0942bc9d8377dda177629e2f35393908.jpg"
-	caption="Photograph of Wilbur Isaacson Looking out over the Wild Rice Area of Waboose_Bay (1958)"
+	caption="Photograph of Wilbur Isaacson Looking out over the Wild Rice Area of Waboose Bay (1958)"
 	   fit="contain">
 
 ### Harvest Histories
