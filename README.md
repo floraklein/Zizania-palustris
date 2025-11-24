@@ -19,20 +19,18 @@ fit="contain">
 ### Botanical Nomenclature
 
 The *Zizania* genus is housed in the Oryza genus of the Poaceae (grass) family. *Zizania palustris* is one of four wild rice species native to North America, the other three being *Z. aquatica*, *Z. texana*, and *Z. latifolia*. *Z. palustris* is unrelated to the more commonly known Oryza white rice domesticated in Africa and Asia. The two species diverged twenty-six to thirty million years ago, with *Zizania* becoming established in North America about five million years ago and expanding across the continent using ice-age [refugia](https://en.wikipedia.org/wiki/Glacial_refugium).[^2]  Unlike white rice, wild rice is not a "true" rice and is instead a species of aquatic grass whose seeds resemble white rice grains. 
-
 <param ve-image
 src="gh:floraklein/Zizania-palustris/main/wild%20rice/KEW%20POW%20Z%20palustris.jpg"
-caption="xxx">  
+caption="Zizania palustris type specimen">  
 <param ve-image
 	   src="gh:floraklein/Zizania-palustris/main/wild%20rice/Kew%20POW%20Z%20palustris%20dist.png"
-	   caption="xxx"> 
+	   caption="Global distribution of Zizania palustris"> 
 <param ve-image
 src="wc:The_book_of_grasses_-_an_illustrated_guide_to_the_common_grasses,_and_the_most_common_of_the_rushes_and_sedges_(1912)_(14576920329).jpg"
-caption="xxx"
+caption="Zizania aquatica and Zizania palustris"
 fit="contain">  
 
 *Z. palustris*, whose specific epithet translates as "marshy" or "swampy," was originally thought to belong to *Z. aquatica*, a species of wild rice native to the Eastern United States. However, in his *Mantissa Plantarum Altera* (1771), a book of botanical text and illustrations, Swedish botanist [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) distinguishes the two plants as separate species.[^3]
-
 <param ve-image
 	   src= "wc:Carl_von_Linné.jpg"
 	caption="xxx"
@@ -41,7 +39,6 @@ fit="contain">
 	   src="https://www.biodiversitylibrary.org/page/42945403#page/163/mode/1up">
 
 The turn of the twenty-first century saw the release of the first wild rice genome map, and with it came concern over the flow of genes from cultivated to wild rice stands, or groups of plants.[^4] In the wild-rice waters of northern Minnesota, researchers have found that wild rice populations are genetically distinct from one another and that there is very little [gene flow](https://en.wikipedia.org/wiki/Gene_flow) across watersheds.[^5] Concerns remain that genetically diverse wild stands, whose seeds are unable to be stored in [ex situ repositories](https://en.wikipedia.org/wiki/Seed_bank), will be overtaken by genetically modified wild rice supergroups.[^6] 
-
 <param ve-image
 	   src= "wc:Zizania_palustris_15-p.bot-ziza.palus-4 1.jpg"
 	caption="xxx"
@@ -55,10 +52,9 @@ The turn of the twenty-first century saw the release of the first wild rice geno
 
 The intertwined story of people and plant in North America begins around 950 C.E. The Anishinaabe nation received a prophecy from the prophets of the [Seven Fires](https://en.wikipedia.org/wiki/Seven_fires_prophecy) and a floating seashell, called the sacred [miigis](http://nativeamericannetroots.net/diary/1392). The prophecy instructed them to travel westward to where the "food grows on water," referring to wild rice.[^7] The Anishinaabe migration occurred over the course of approximately five hundred years and included several legs to the journey. The Ojibwe people of the Anishinaabe nation eventually settled in Gichigami, the area east of Lake Superior, in present-day Minnesota. This pushed the [Dakota](https://www.mnhs.org/fortsnelling/learn/native-americans/dakota-people), the previous inhabitants of the region, to relocate to the south and west.
 
-IMAGE: Anishinaabe migration map - TBD
+*IMAGE: Anishinaabe migration map - TBD*
 
 The wild rice, called manoomin, was considered a special gift from the Creator that tied Anishinaabe people to the lands, and became a part of Anishinaabe  [materia medica](https://en.wikipedia.org/wiki/Materia_medica), serving both ritual and medicinal purposes. Considered the most sacred mashkiki, or medicine, manoomin contains not only a material presence, but also a spiritual one, providing both nourishment and healing,[^8] and was used to promote recovery from sickness through ingestion or topical poultices. The rice harvest became a ritualized practice—gathering it and other *mashkiki* from the Gichimanidoogitigan, or “Creator’s Garden,” was timed to coincide with the autumnal harvest and was often overseen by a rice chief.[^9]
-
 <param ve-image
 	   src= "wc:Zizania_palustris_macro.jpg"
 	caption="xxx"
@@ -72,12 +68,16 @@ The wild rice, called manoomin, was considered a special gift from the Creator t
 
 The first Europeans to arrive in the Great Lakes region were the French explorers and missionaries in the 1620s. The Ojibwe acted as their guides, interpreters, and trading partners, often using the Ojibwe language as the lingua franca in [trading](https://www.mnhs.org/fortsnelling/learn/fur-trade). Jacques Marquette, a French Jesuit missionary and the first European to map the northern part of the Mississippi River Valley, described the wild rice as *folle avoine*, translated as wild oats or fool oats, or as a "sort of grass" that resembled the leguminous tare grass growing amid wheat in France. European travelers also compared the aquatic growing conditions of wild rice along lake and stream margins to the flooded [paddies](https://en.wikipedia.org/wiki/Paddy_field) used for rice cultivation in Asia. The [Menominee](https://en.wikipedia.org/wiki/Menominee) tribe was referred to as manoominiig, the "wild rice people," by both the Ojibwe and the French.[^10] As scholar Thomas Vennum wrote, "Each of these groups had a diversified economy and therefore depended upon wild rice for food and trade to differing degrees."[^11] For the Anishinaabe, the wild rice provided the means to avoid trade dependencies with entities such as the Hudson’s Bay Company by becoming a surplus trade good.[^12]
 
+<param ve-image
+	   src= "wc:A_map_of_the_British_and_French_dominions_in_North_America_-_with_the_roads,_distances,_limits,_and_extent_of_the_settlements,_humbly_inscribed_to_the_Right_Honourable_the_Earl_of_Halifax,_and_the_NYPL434076.tiff"
+	caption="'A map of the British and French dominions in North America : with the roads, distances, limits, and extent of the settlements, humbly inscribed to the Right Honourable the Earl of Halifax, and the other Right Honourable the Lords Commissioners for Trade and Plantations' (1773)"
+	   fit="contain">
+
 Several land treaties between the Ojibwe and the United States were signed in the mid-nineteenth century, including the Treaty of 1836, the Treaty of 1837, and the Treaty of 1842. The land treaties gave the Ojibwe usufructuary rights, or the "right to use legal property," which included the right to hunt, fish, and gather on ceded territory. Despite those treaties, the [Dawes Act of 1887](https://en.wikipedia.org/wiki/Dawes_Act) forcibly removed the Ojibwe from their land to boarding schools, camps, and mills. It also implemented the process of privatized land allotment and led to the creation of reservations.[^13]
 
-IMAGE(S): Map of Territories ceded (Treaty of 1836, 1837, 1842, and Dawes Act of 1887)
+*IMAGE(S): Map of Territories ceded (Treaty of 1836, 1837, 1842, and Dawes Act of 1887)*
 
 In the decades after the signing of these treaties and the passage of the Dawes Act, the United States Army Corps of Engineers built a series of [dams](https://www.mnhs.org/mnopedia/search/index/thing/mississippi-river-reservoir-dam-system) in the upper Mississippi watershed to control and maintain a predictable water flow for downstream mills. This hydrological alteration to the landscape resulted in the destruction of wild rice habitat due to construction-related flooding. The colonial violence of assimilation and reallocation, along with forced removal and land cession, directly led to the breakdown of Ojibwe knowledge and kinship systems.[^14]
-
 <param ve-image
 	   src="gh:floraklein/Zizania-palustris/Zizania-palustris/main/MNdams.jpg"
 	   caption="xxx">
@@ -86,17 +86,15 @@ In the decades after the signing of these treaties and the passage of the Dawes 
 
 Both Americans and Europeans fostered ambitions to cultivate wild rice outside of its native habitat. Pehr Kalm, a well-known disciple of Carl Linnaeus, undertook a collections tour of North America between 1747 and 1751. Under Linnaeus’s instructions—and as part of a project to build a larger mercantile empire within Europe, and commissioned by the Royal Swedish Academy of Sciences—Kalm’s task was to collect a "kind of Rice… used by one Nation… as food instead of grains, which grows without cultivation there in all marshes and lakes."[^15] Kalm returned to Sweden with over one hundred plant species, including *Zizania aquatica*, with the intention of domesticating the plant species in Scandinavia and trading it as a crop used for livestock feed and human consumption within greater Europe.[^16]
 
-
+image pehr kalm
 
 Many travelers to the Great Lakes region following Kalm’s expedition viewed wild rice as a productive crop well-suited for potential cultivation in the analogous climates of Northern Europe. After traveling to the western Great Lakes region in the late 1760s, Jonathan Carver, an explorer and captain in a Massachusetts colonial unit, entertained the idea of producing wild rice as a domesticated crop in the "infant colonies" of the United States.[^17]
-
 <param ve-image
 	   src= "wc:Carte_des_voyages_du_Cape._Carver,_dans_la_partie_intérieure_de_l'Amérique_septentrionale_en_1766,_et_1767._LOC_74695016.jpg"
 	caption="xxx"
 	   fit="contain">
 
 In his 1803 "Observation on the *Zizania aquatica*," British botanist Aylmer Bourke Lambert described the transportation of *Z. aquatica* seeds from Canada to Europe in glass jars. Long considered a "desideratum among the botanists of [England]," he noted his desire to grow the seeds in the "many shallow pieces of water" in Great Britain and Ireland.[^18] Beginning with French botanist André Michaux, few, if any, were able to grow wild rice in Europe.[^19]
-
 <param ve-iframe
 src="https://www.biodiversitylibrary.org/page/756477#page/317/">
 <param ve-image
@@ -109,50 +107,41 @@ src="https://www.biodiversitylibrary.org/page/756477#page/317/">
 	   fit="contain">
 
 In fact, botanists were beginning to understand that seeds alone were not enough to ensure that the plant would flourish in Europe. Indeed, because of the highly specific habitat conditions required for wild rice growth, these early cultivation attempts failed. In an 1852 United States geological survey, American geologist David Dale Owen wrote: "This grain has been frequently introduced to the attention of cultivators, and is worth of notice, not only for the value of its products, but the peculiar nature of the soil to which it is adapted, being necessarily unfit for any of our ordinary cultivated grains." He later specified, "It is in these situations best exposed to the proper degree of inundation, and finds a suitable bed of the slimy sand, in which [wild rice] grows most readily. It is rarely met with on inland lakes which have no outlet."[^20] Owen described the specific features of wild rice habitat, including the regular inundation, steady water flow, and relative water depth required for wild rice growth in aquatic habitats, painting a picture of the unique landscapes that proved critical to the plant’s successful growth. 
-
-IMAGE: 
+<param ve-image
+	   src= "wc:Photograph_of_Wilbur_Isaacson_Looking_out_over_the_Wild_Rice_Area_of_Waboose_Bay_-_DPLA_-_0942bc9d8377dda177629e2f35393908.jpg"
+	caption="Photograph of Wilbur Isaacson Looking out over the Wild Rice Area of Waboose_Bay (1958)"
+	   fit="contain">
 
 ### Harvest Histories
 
 Cultural traditions involving wild rice were linked to the seasons. Anishinaabe harvesters would set up harvest camps, or Manoominikewin, for "ricing." In 1820, Henry Schoolcraft, on an expedition to find the source of the Mississippi River, noted the role of wild rice as a foodstuff closely linked to seasonal change: "The necessity of changing their camps often, to procure game or fish, the want of domesticated animals, the general dependence on wild rice, and the custom of journeying in canoes, has produced a general uniformity of life."[^21]
 
-
-
 In "Gathering Wild Rice, 1849–1855," Seth Eastman, an artist and U.S. Army commander at Fort Snelling, depicts three women, most likely Anishinaabe, in the process of harvesting wild rice. The watercolor drawing, the first known painting of wild rice, depicts one woman paddling a canoe and two others beating rice stalks with flat paddles. American anthropologist and ethnographer Frances Densmore later captured the multi-step harvesting process in her photography from the early twentieth century. In her 1928 "How Indians Use Wild Plants for Food, Medicine, and Crafts," Densmore describes the process of establishing harvesting camps and the act of "ricing" itself, in which Ojibwe women would harvest by traveling in birchbark canoes.[^22] When ricing, one person would paddle the canoe using a push pole (Gaandakii-iganaak), while another would knock rice stalks with special sticks (Bawa’iganaak) so that ripe rice seeds would fall into the canoe and into the lake water. After harvesting, the rice was dried on birchbark sheets, parched to loosen the husk, and pounded with wooden paddles. It would then be winnowed and trodden upon and later stored. In the lakes and streams that had not been disrupted by dam construction, year after year over the course of centuries, the knowledge and practices of ricing had been kept alive and passed down through generations of Ojibwe. 
-
 <param ve-iframe
 	   src="https://ia601809.us.archive.org/6/items/NL000379/NL000379_o2.jpg"
 	   fit=“contain”>
-
 <param ve-image
 	   src= "wc:Wild_rice_harvesting_and_processing_-_NARA_-_285183.jpg"
 	caption="xxx"
 	   fit="contain">
-	   
 <param ve-image
 	   src= "wc:Winnowing_the_wild_rice_in_a_birch_bark_basket 1.jpg"
 	caption="xxx"
 	   fit="contain">
-	   
 <param ve-image
 	   src= "wc:Parching_the_wild_rice_over_an_open_flame 1.jpg"
 	caption="xxx"
 	   fit="contain">
-	   
 <param ve-video
 	   src="SH_YYyw9yF8"> 
-	   
 <param ve-video
 	   src="6tjd7H1iQWY"> 
-	   
 <param ve-video
 	   src="EFW5QE6ahOU"> 
 
 Historically, both Ojibwe men and women performed wild rice harvesting, with men steering the canoe and women knocking the grains into the canoe. In the decades following land cessions, forced migration, and colonial settlement, the labor relations and gender roles involved in harvesting changed. During the early twentieth century, the state of Minnesota created [wild rice camps](https://www.kaxe.org/local-news/2023-09-22/wild-rice-camp-highlights-sacred-plant-and-the-fight-to-protect-it), and state control over wild rice harvesting was codified in 1939.[^23] According to Ojibwe historian Brenda Child, the wild rice waters and ricing camps were gendered spaces where women expressed autonomy through the labor and organization of creating and maintaining wild rice economies. Indeed, the wild rice waters themselves became a gendered landscape through women’s involvement in and jurisdiction over harvesting and ricing.[^24]
-
 <param ve-video
 	   src="HvLvwo3a5PU"> 
-	   
 <param ve-image
 	   src= "wc:Wild_rice_harvesting_and_processing_-_NARA_-_285183.jpg"
 	caption="xxx"
@@ -161,7 +150,6 @@ Historically, both Ojibwe men and women performed wild rice harvesting, with men
 ### Landscape as Collaborator
 
 Wild rice plays an important part in the aquatic plant communities of the northern Great Lakes region. It benefits local food networks and wetland ecology by participating in the water [nutrient cycle](https://en.wikipedia.org/wiki/Nutrient_cycle), stabilizing coastal river wetland sediment and providing habitat for other species. Rooted in sediment, the plant grows along the margins of small streams and shallow lakes. Albert Jenks, a University of Minnesota professor of anthropology, noted the landscape conditions required for its growth in his *Wild Rice Gatherers of the Upper Lakes* (1907): "Wherever the last glacier left little mid-bottomed, water-filled hollows, there wild rice has established itself, if other conditions are favorable. Such ponds and lakes are characteristic of the alluvial apron spread out over Wisconsin and Minnesota."[^25]
-
 <param ve-compare
 src= "wc:Wild_rice_plants_-_NARA_-_285206.jpg"
 caption="Swipe across images to view the conditions of wild rice habitat in 2010 and 1937">
@@ -169,20 +157,15 @@ caption="Swipe across images to view the conditions of wild rice habitat in 2010
 src= "wc:Northern_Wild_Rice_(Zizania_palustris),_Coventry,_RI_(39518308664).jpg"> 
 
 Like other grasses, a crucial phase of the wild rice’s life cycle is the shattering of the mature seed, which occurs when the seed drops off the plant once it ripens. Seed heads are located at the top of the plant, and ripe seeds drop from the plant into the water, sinking to the soil where they remain dormant over the winter. They usually [germinate](https://en.wikipedia.org/wiki/Germination) in the following spring. By early summer, wild rice forms floating mats of leaves and seeds cross-pollinated by wind. After reaching maturity in late summer and being harvested in late summer or early autumn, the grass dies. Seed shattering occurs over days to weeks, which allows for multiple harvests to take place.
-
 <param ve-image
 	   src= "wc:Zizania_palustris 1.jpg"
 	caption="xxx"
 	   fit="contain">
 
 Harvesting was not only a process of gathering but also a process of reseeding the plant for future harvests. Jenks wrote that "the plant, unless it is artificially sown, is gradually being extinguished in such beds as are continuously used."[^26] The significant portion of seeds being knocked back into water rather than harvested in the canoe was not waste, but an active management strategy. Responsive to changing environmental conditions, the reseeding during harvest treats the landscape as a collaborator: to remain viable, wild rice seeds require submergence in the soil during undisturbed dormancy. The aquatic landscape remains an active participant in the reseeding process, highlighting the importance of the landscape itself in maintaining a relationship between wild rice and humans. Defined by ecologist Fikret Berkes, TEK is a knowledge-practice-belief complex comprising experience gleaned from thousands of years of direct human contact with their environment.[^27] The artificial sowing of wild rice seeds is one example of the activation of TEK.[^28]
-
-image of TEK framework from Fikret Berkes
-
-<param ve-image
-	   src= "wc:Photograph_of_Wilbur_Isaacson_Looking_out_over_the_Wild_Rice_Area_of_Waboose_Bay_-_DPLA_-_0942bc9d8377dda177629e2f35393908.jpg"
-	caption="xxx"
-	   fit="contain">
+<param ve-video
+	   src="WpfTvLMNqvg"
+		start="00:05">
 
 ### Cultivation, Commodification, and Commercialization
 
@@ -228,10 +211,6 @@ On August 4, 2021, the White Earth Band of Ojibwe and manoomin filed a lawsuit a
 	   fit="contain">
 
 Because manoomin is a nonhuman person according to Ojibwe worldview, with its own rights, it was able to serve as the plaintiff in the court case. The expansion of legal protections and human rights-type legal protections to nonhuman species and ecosystems incorporates elements of TEK worldviews by highlighting the connections between human and nonhuman persons. Potawatomi scientist [Robin Wall Kimmerer](https://en.wikipedia.org/wiki/Robin_Wall_Kimmerer) characterizes this relationship as one of reciprocity, "rules of sorts that govern our taking, shape our relationships with the natural world, and rein in our tendency to consume... Reciprocity helps resolve the moral tension of taking a life by giving in return something of value that sustains the ones who sustain us."[^34] The link between people, place, and plant, evidenced in the relationship between the Ojibwe and wild rice, serves as a framework for expanding notions of care and conservation across worldviews.
-
-<param ve-video
-	   src="WpfTvLMNqvg"
-		start="00:05">
 
 While the case was dismissed in March 2022 by the White Earth Band of Ojibwe Court of Appeals, *Manoomin v. Minnesota Department of Natural Resources* sets an example for how the legal rights of nature may be invoked in order to protect both individual species and entire ecosystems. It is one example of how human and plant relationships based upon this expanded worldview may be used as leverage within larger conservation efforts, and points out larger power dynamics and their ethical frameworks that still consider plants and nonhuman species as property. 
 
