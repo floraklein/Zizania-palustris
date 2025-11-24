@@ -207,8 +207,6 @@ Cultivation is domestication occurring in real time. Cultivated wild rice, or wi
 
 With rising temperatures and less ice cover, the proliferation of wild rice is severely threatened by climate change. Its seeds, which require frozen temperatures during their dormancy, cannot germinate as well or at all in warm weather. In addition, rapid fluctuations in water depth due to severe weather events, like concentrated rainfall events and droughts, disrupt plant growth, and as a result, the amount of suitable habitat shrinks.
 
-image of habitat ?
-
 Serious threats are posed to naturally occurring wild rice stands by the potential expansion of copper and nickel open-pit mining and their toxic discharges. The amount of sulfate in the St. Louis watershed has increased over the past half-century, adversely affecting the plant’s growth. Today, pipelines like the Enbridge "Line 3" and others threaten the health not only of wild rice habitats, but also of the entire St. Louis watershed and the ecosystems contained therein. 
 
 <param ve-image
@@ -226,12 +224,14 @@ On August 4, 2021, the White Earth Band of Ojibwe and manoomin filed a lawsuit a
 
 <param ve-image
 	   src= "wc:Pipeline_Free_Manoomin_(Honor_the_Earth) 1.jpg"
-	caption="xxx"
+	caption="Pipeline Free Manoomin"
 	   fit="contain">
 
 Because manoomin is a nonhuman person according to Ojibwe worldview, with its own rights, it was able to serve as the plaintiff in the court case. The expansion of legal protections and human rights-type legal protections to nonhuman species and ecosystems incorporates elements of TEK worldviews by highlighting the connections between human and nonhuman persons. Potawatomi scientist [Robin Wall Kimmerer](https://en.wikipedia.org/wiki/Robin_Wall_Kimmerer) characterizes this relationship as one of reciprocity, "rules of sorts that govern our taking, shape our relationships with the natural world, and rein in our tendency to consume... Reciprocity helps resolve the moral tension of taking a life by giving in return something of value that sustains the ones who sustain us."[^34] The link between people, place, and plant, evidenced in the relationship between the Ojibwe and wild rice, serves as a framework for expanding notions of care and conservation across worldviews.
 
-?
+<param ve-video
+	   src="WpfTvLMNqvg"
+		start="00:05">
 
 While the case was dismissed in March 2022 by the White Earth Band of Ojibwe Court of Appeals, *Manoomin v. Minnesota Department of Natural Resources* sets an example for how the legal rights of nature may be invoked in order to protect both individual species and entire ecosystems. It is one example of how human and plant relationships based upon this expanded worldview may be used as leverage within larger conservation efforts, and points out larger power dynamics and their ethical frameworks that still consider plants and nonhuman species as property. 
 
