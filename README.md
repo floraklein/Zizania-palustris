@@ -73,7 +73,7 @@ The wild rice, called manoomin, was considered a special gift from the Creator t
 The first Europeans to arrive in the Great Lakes region were the French explorers and missionaries in the 1620s. The Ojibwe acted as their guides, interpreters, and trading partners, often using the Ojibwe language as the lingua franca in [trading](https://www.mnhs.org/fortsnelling/learn/fur-trade). Jacques Marquette, a French Jesuit missionary and the first European to map the northern part of the Mississippi River Valley, described the wild rice as *folle avoine*, translated as wild oats or fool oats, or as a "sort of grass" that resembled the leguminous tare grass growing amid wheat in France. European travelers also compared the aquatic growing conditions of wild rice along lake and stream margins to the flooded [paddies](https://en.wikipedia.org/wiki/Paddy_field) used for rice cultivation in Asia. The [Menominee](https://en.wikipedia.org/wiki/Menominee) tribe was referred to as manoominiig, the "wild rice people," by both the Ojibwe and the French.[^10] As scholar Thomas Vennum wrote, "Each of these groups had a diversified economy and therefore depended upon wild rice for food and trade to differing degrees."[^11] For the Anishinaabe, the wild rice provided the means to avoid trade dependencies with entities such as the Hudson’s Bay Company by becoming a surplus trade good.[^12]
 
 <param ve-image
-	   src= "wc:"
+	   src= "wc:Carte_des_voyages_du_Cape._Carver,_dans_la_partie_intérieure_de_l'Amérique_septentrionale_en_1766,_et_1767._LOC_74695016.jpg"
 	caption="xxx"
 	   fit="contain">
 
