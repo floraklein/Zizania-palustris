@@ -190,7 +190,7 @@ Wild rice cultivation was spearheaded in the 1950s by University of Minnesota sc
 
 <param ve-image
 	   src="gh:floraklein/Zizania-palustris/wildrice/wildricelakesdnr.jpg"
-caption="xxx">
+caption="Wild rice lakes in Minnesota">
 
 In the early 1960s, food product company Uncle Ben’s Inc.—now called Ben’s Original and owned by Mars, Inc.—began incorporating wild rice into its rice blend. Cultivated wild rice production in northern California’s Sacramento Valley began in the 1970s.[^30] In the 1980s, both Uncle Ben’s Inc. and NorCal, another California cultivator, established patents for their cultivated hybrid wild rice varieties. Between 1983 and 1986, wild rice production had surpassed Minnesota, and by 2020, California was producing 95 percent of all cultivated wild rice. Wild rice was also commercially cultivated in Canada, where, by 2023, the crop’s revenue surpassed $5 million CAN.[^31]
 
