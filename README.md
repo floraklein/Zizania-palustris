@@ -235,8 +235,6 @@ Because manoomin is a nonhuman person according to Ojibwe worldview, with its ow
 
 While the case was dismissed in March 2022 by the White Earth Band of Ojibwe Court of Appeals, *Manoomin v. Minnesota Department of Natural Resources* sets an example for how the legal rights of nature may be invoked in order to protect both individual species and entire ecosystems. It is one example of how human and plant relationships based upon this expanded worldview may be used as leverage within larger conservation efforts, and points out larger power dynamics and their ethical frameworks that still consider plants and nonhuman species as property. 
 
-?
-
 ### The Continuous Interweaving between People, Place, and Plant
 
 From early botanical attempts at domestication in Europe and its role in newly created trade economies, to the more recent commercialization and breeding programs, wild rice serves as a key example of the entanglement of plant, people, and landscape in Indigenous worldviews. The unique growing conditions and reciprocal dependencies between the Ojibwe and wild rice acknowledge the plant’s role within larger environmental, social, and moral contexts, evidenced in early travel accounts, visual representations, and ethnographical works. More recent legal recourse both complicates and denies this worldview, asking us to reconsider how the moral frameworks central to TEK might allow us to better acknowledge the agency of plants and the impact of human and plant relationships on our ecosystems and landscapes today.
