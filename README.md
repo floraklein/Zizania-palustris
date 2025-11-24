@@ -83,7 +83,9 @@ IMAGE(S): Map of Territories ceded (Treaty of 1836, 1837, 1842, and Dawes Act of
 
 In the decades after the signing of these treaties and the passage of the Dawes Act, the United States Army Corps of Engineers built a series of [dams](https://www.mnhs.org/mnopedia/search/index/thing/mississippi-river-reservoir-dam-system) in the upper Mississippi watershed to control and maintain a predictable water flow for downstream mills. This hydrological alteration to the landscape resulted in the destruction of wild rice habitat due to construction-related flooding. The colonial violence of assimilation and reallocation, along with forced removal and land cession, directly led to the breakdown of Ojibwe knowledge and kinship systems.[^14]
 
-image of dams
+<param ve-image
+	   src="gh:floraklein/Zizania-palustris/Zizania-palustris/main/MNdams.jpg"
+	   caption="xxx">
 
 ### Cultivation for Consumption
 
