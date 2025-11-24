@@ -188,7 +188,9 @@ image of TEK framework from Fikret Berkes
 
 Wild rice cultivation was spearheaded in the 1950s by University of Minnesota scientist Ervin Oelke, who collected germ plasms from twenty-four natural stands, or a community of organisms growing in a specific location, that fell within the 1837 treaty area.[^29] The university established an official wild rice breeding program in the 1960s to cultivate wild rice with disease and pest resistance and to produce nonseed-shattering varieties. This would facilitate mechanical harvest and increase the yield size. The program produced four strands of cultivated "wild" rice between 1968 and 2000. By 1969, the Minnesota state legislature provided funding for *Z. palustris* cultivation, and in 2017, appropriated recurring funding for the Northern Wild Rice breeding and genetics program.
 
-?
+<param ve-image
+	   src="gh:floraklein/Zizania-palustris/wildrice/wildricelakesdnr.jpg"
+caption="xxx">
 
 In the early 1960s, food product company Uncle Ben’s Inc.—now called Ben’s Original and owned by Mars, Inc.—began incorporating wild rice into its rice blend. Cultivated wild rice production in northern California’s Sacramento Valley began in the 1970s.[^30] In the 1980s, both Uncle Ben’s Inc. and NorCal, another California cultivator, established patents for their cultivated hybrid wild rice varieties. Between 1983 and 1986, wild rice production had surpassed Minnesota, and by 2020, California was producing 95 percent of all cultivated wild rice. Wild rice was also commercially cultivated in Canada, where, by 2023, the crop’s revenue surpassed $5 million CAN.[^31]
 
