@@ -79,7 +79,7 @@ The first Europeans to arrive in the Great Lakes region were the French explorer
 
 Several land treaties between the Ojibwe and the United States were signed in the mid-nineteenth century, including the Treaty of 1836, the Treaty of 1837, and the Treaty of 1842. The land treaties gave the Ojibwe usufructuary rights, or the "right to use legal property," which included the right to hunt, fish, and gather on ceded territory. Despite those treaties, the [Dawes Act of 1887](https://en.wikipedia.org/wiki/Dawes_Act) forcibly removed the Ojibwe from their land to boarding schools, camps, and mills. It also implemented the process of privatized land allotment and led to the creation of reservations.[^13]
 
-dawes act map / timeline
+IMAGE(S): Map of Territories ceded (Treaty of 1836, 1837, 1842, and Dawes Act of 1887)
 
 In the decades after the signing of these treaties and the passage of the Dawes Act, the United States Army Corps of Engineers built a series of [dams](https://www.mnhs.org/mnopedia/search/index/thing/mississippi-river-reservoir-dam-system) in the upper Mississippi watershed to control and maintain a predictable water flow for downstream mills. This hydrological alteration to the landscape resulted in the destruction of wild rice habitat due to construction-related flooding. The colonial violence of assimilation and reallocation, along with forced removal and land cession, directly led to the breakdown of Ojibwe knowledge and kinship systems.[^14]
 
